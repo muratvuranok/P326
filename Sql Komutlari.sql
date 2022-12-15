@@ -102,5 +102,71 @@ insert into Shippers ( CompanyName,Phone) values
 select * from Shippers
 
 select * from Customers
-insert into Customers (CompanyName, CustomerID) values ('Code Academy','CADMY')
+insert into Customers (CompanyName, CustomerID) values ('Code Academy','CADMY') 
 
+-- Update 
+-- update <tablo adı> set <sütun adı> = <sütun değeri
+
+
+--  Employee tablosunun bir kopyasını oluşturur
+select * into Calisanlar from Employees
+
+
+update Calisanlar set LastName = 'Vuranok'
+--drop table Calisanlar
+select * from Calisanlar
+
+update Calisanlar  set LastName = 'Vuranok'
+where TitleOfCourtesy = 'Mr.'
+ 
+
+ -- ürünler (products) yedeğini alın (Urunler) sonra var olan ürünlere kendi fiyatları üzerinden %5 zam yapın
+
+ select ProductID, ProductName, UnitPrice as OldPrice, UnitPrice as NewPrice into Urunler from Products
+
+ select *  from Urunler
+
+ update Urunler  set NewPrice = (NewPrice * 1.05)
+
+-- 35 ile 50 (dahil) arasında yer alan ürünlerin Id, yeni fiyat ve eski fiyat olarak yeni bir tabloya duplicate , kopya vs artık neyse :) alın 
+
+ select ProductID, ProductName, UnitPrice as OldPrice, UnitPrice as NewPrice into Urunler1 from Products
+
+ where UnitPrice >= 35 and UnitPrice <= 50
+
+ select * from Urunler1
+
+ -- tablo içerisinden veri silme
+
+ drop table Calisanlar -- tablonun kendisini siler
+ delete from Calisanlar  -- tablo içerisine yer alan tüm kayıtları siler. yeni bir kayıt eklediğinizde, Id değeri otomatik olarak kaldığı yerden devm eder. 10, yeni 11 , eğer Id değerlerinin yeniden 1'den başlamasını istiyorsanız.
+
+ --truncate table Calisanlar   -> tablonun tüm ayarlarını resetler, default'a çeker vs. vs... 
+
+
+
+ delete from Categories
+
+
+ -- Sıralama işlemleri
+
+ select EmployeeID, FirstName, LastName from Employees order by FirstName asc   --asscending küçükten büyüğe - fakirden zengine ucuzdan bahaya
+  
+  select EmployeeID, FirstName, LastName from Employees
+  where EmployeeID > 2 and EmployeeID <= 8
+  order by LastName  desc 
+  -- descending  , azalan sırada, zengninden fakire, bahadan ucuza 
+
+
+
+
+  select EmployeeID, FirstName, LastName from Employees order by FirstName asc, LastName desc
+
+  update Employees set FirstName = 'Michael' where EmployeeID  in (8, 4, 6)
+
+
+  -- Çalişanlari ünvanlarina göre ve ünvanlari ayniysa yaşlarina göre büyükten küçüğe siralayiniz.
+
+  select  EmployeeID, FirstName, LastName, TitleOfCourtesy, YEAR(getdate()) - YEAR(BirthDate) as Age from Employees
+
+  order by 4,5 desc
