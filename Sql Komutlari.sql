@@ -170,3 +170,107 @@ where TitleOfCourtesy = 'Mr.'
   select  EmployeeID, FirstName, LastName, TitleOfCourtesy, YEAR(getdate()) - YEAR(BirthDate) as Age from Employees
 
   order by 4,5 desc
+
+  -- JOIN İşlemleri
+-- 1) Inner Join: Bir tablodaki her bir kaydın diğer tabloda bir karşılığı olan kayıtlar listelenir. Inner Join ifadesini yazarken Inner cümlesini yazmazsak da (sadece Join yazarsak) bu yine Inner Join olarak işleme alınır.
+
+select * from Categories 
+select * from Products
+
+-- 1	Beverages	Soft drinks, coffees, teas, beers, and ales 1	Chai	1	1	10 boxes x 20 bags	18.00
+-- 1	Beverages	Soft drinks, coffees, teas, beers, and ales 2	Chang	1	1	24 - 12 oz bottles	19.00
+
+select CategoryName, ProductName from Categories inner join Products 
+
+on Categories.CategoryID = Products.CategoryID
+
+
+-- CategoryID, CategoryName, ProductID,  ProductName
+
+
+ select 
+Categories.CategoryID, CategoryName, ProductID,  ProductName 
+from Products join Categories on Products.CategoryID = Categories.CategoryID  
+
+-- Hangi sipariş, hangi çalışan tarafından, hangi müşteriye yapılmış
+-- Orders      => sipariş numarası (OrderID), sipariş tarihi (OrderDate)
+-- Employees   => Adı (FirstName) , soyadı (LastName)
+-- Customers   => şirket adı (CompanyName), yetkili kişi (ContactTitle)
+
+
+select O.OrderID as SiparişNo, O.OrderDate [Sipariş Tarihi], E.FirstName + ' '+ E.LastName as Personel, C.CompanyName, C.ContactTitle from Orders O join Customers C 
+on O.CustomerID = C.CustomerID 
+join Employees E on E.EmployeeID = O.EmployeeID
+
+
+select * from Categories
+
+insert into Categories( CategoryName, Description) values ('test','açıklama')
+
+-- 2.) OUTER JOIN  
+-- 2.1) LEFT OUTER JOIN : Sorguda katılan tablolardan soldakinin tüm kayıtları getirilirken, sağdaki tablodaki sadece ilişkili olan kayıtlar getirilir.
+
+
+select CategoryName, ProductName from Categories C  left outer join Products P on C.CategoryID = P.CategoryID
+
+select CategoryName, ProductName from Categories C  right join Products P on C.CategoryID = P.CategoryID
+
+select count(*) from Products
+select C.CategoryName , ProductName from Categories C right join Products P on C.CategoryID = P.CategoryID
+
+where P.CategoryID is not NULL
+
+select * from Products where ProductID > 77
+
+
+
+
+
+-- Bir siparişin hangi çalışan tarafından hangi müşteriye hangi kategorideki üründen hangi fiyattan kaç adet satıldığını listeleyiniz.
+--(Employees) Çalışanın adı, soyadı, ünvanı, görevi, işe başlama tarihi
+--(Customers) Müşterinin firma adını, temsilcisini ve telefonunu
+--(Products)  Ürünün adını, stok miktarını, birim fiyatını
+--(Orders)    Siparişin adetini ve satış fiyatını
+--(Category)  Kategori adını
+
+
+
+-- full join 
+select * from Categories C full join Products P on C.CategoryID = P.CategoryID
+
+
+-- cross join
+
+select C.CategoryName, P.ProductName from Categories C cross join Products P
+
+
+-- Aggregate Fonksiyonlar (Toplam Fonksiyonlari, Gruplamali Fonksiyonlar)
+-- COUNT(Sütun adi | *): Bir tablodaki kayit sayisini öğrenmek için kullanilir.
+-- Bir tablodaki toplam kayit sayisini öğrenebiliriz.
+-- NOT : dikkat edilmesi gereken, sütun adı veriyorsanız null alanların sorguya dahil edilmeyeceğini unutmayınız. eğer verdiğiniz alan içerisinde null olan kısımlar var ise, bunlar sorguya dahil EDİLMEZ!!!
+
+
+select Count(*) from Employees where Country = 'UK'
+
+select COUNT(*) from Employees  where Region is null
+select COUNT(Region) from Employees -- select count(*) from Employees where Region is not null
+
+select * from Employees
+
+
+select SUM(EmployeeID) from Employees
+
+select SUM(YEAR(GETDATE()) - YEAR(BirthDate)) from Employees
+
+select AVG(EmployeeID) from Employees
+
+select SUM(FirstName) from Employees
+
+select MAX(EmployeeID) from Employees
+
+select MIN(EmployeeID) from Employees
+
+
+select MAX(FirstName) from Employees
+
+select MIN(FirstName) from Employees
