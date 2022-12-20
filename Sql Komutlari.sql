@@ -274,3 +274,176 @@ select MIN(EmployeeID) from Employees
 select MAX(FirstName) from Employees
 
 select MIN(FirstName) from Employees
+  
+
+
+-- Bir siparişin hangi çalışan tarafından hangi müşteriye hangi kategorideki üründen hangi fiyattan kaç adet satıldığını listeleyiniz.
+--(Employees) Çalışanın adı, soyadı, ünvanı, görevi, işe başlama tarihi
+--(Customers) Müşterinin firma adını, temsilcisini ve telefonunu
+--(Products)  Ürünün adını, stok miktarını, birim fiyatını
+--(Orders)    Siparişin adetini ve satış fiyatını
+--(Category)  Kategori adını
+
+
+
+
+create view SatisRaporlari as
+
+SELECT dbo.Employees.FirstName
+     , dbo.Employees.LastName
+     , dbo.Employees.Title
+     , dbo.Employees.TitleOfCourtesy
+     , dbo.Employees.HireDate
+     , dbo.Customers.CompanyName
+     , dbo.Customers.ContactName
+     , dbo.Customers.ContactTitle
+     , dbo.Customers.Phone
+     , dbo.Products.ProductName
+     , dbo.Products.ProductID
+     , dbo.Products.UnitsInStock
+     , dbo.Products.UnitPrice
+     , dbo.[Order Details].Quantity
+     , dbo.[Order Details].UnitPrice AS Expr1
+     , dbo.Categories.CategoryName
+FROM dbo.Categories INNER JOIN dbo.Products
+ ON dbo.Categories.CategoryID = dbo.Products.CategoryID INNER JOIN dbo.[Order Details]
+ ON dbo.Products.ProductID = dbo.[Order Details].ProductID  INNER JOIN dbo.Orders INNER JOIN dbo.Employees
+ ON dbo.Orders.EmployeeID = dbo.Employees.EmployeeID INNER JOIN dbo.Customers
+ ON dbo.Orders.CustomerID = dbo.Customers.CustomerID
+ ON dbo.[Order Details].OrderID = dbo.Orders.OrderID
+
+
+ -- VIEW 
+
+ -- Sanal Tablolar
+
+
+ select * from SatisRaporlari
+
+
+
+ -- View Oluşturma
+ --create view Kategoriler as
+ --select [CategoryID], [CategoryName], [Description] from Categories
+
+ select * from Kategoriler
+  
+ alter view Kategoriler as
+ select CategoryId ,CategoryName,   [Description]  from Categories
+   
+ insert into Kategoriler (CategoryName, Description) values('Kategori Adı','Ekleme işlemi başarısız olacak')
+   
+ delete from Kategoriler where CategoryId > 8
+
+    
+
+
+select * from Employees where City = 'London'
+
+
+--create view OgrenciListesi
+alter view OgrenciListesi 
+ with encryption
+as
+SELECT   EmployeeID AS OgrenciId, FirstName AS Adi, LastName AS Soyadi, City AS Sehir
+FROM dbo.Employees
+WHERE (City = 'London') 
+
+
+ select * from OgrenciListesi
+
+
+ insert into OgrenciListesi values('Mehmet','Vuranok','Baku')
+
+  
+ 
+-- LIKE KULLANIMI
+-- Adı Michael olan personellerin listelenmesi
+-- 1. Yol
+
+-- == ( eşit olma durumu )
+select TitleOfCourtesy, FirstName, LastName   from Employees
+where FirstName = 'Michael'
+ 
+ -- 2. Yol
+select TitleOfCourtesy, FirstName, LastName   from Employees
+where FirstName like 'Michael'
+
+
+ 
+
+
+-- Adının ilk harfi A ile başlayanlar
+-- 1. Yol
+
+select TitleOfCourtesy, FirstName, LastName   from Employees
+--where LEFT(FirstName,1) = 'A'
+where SUBSTRING(FirstName,1,1) = 'A'
+
+
+ -- 2. Yol
+
+ select TitleOfCourtesy, FirstName, LastName   from Employees
+where FirstName like 'A%'
+ 
+
+-- Soyadının son harfi N olanların listelenmesi
+ select TitleOfCourtesy, FirstName, LastName   from Employees
+where LastName like '%N'
+
+ 
+-- Adının ilk harfi A veya L olanlar
+
+-- 1.Yol
+select TitleOfCourtesy, FirstName, LastName   from Employees
+--where LEFT(FirstName,1) = 'A'
+where SUBSTRING(FirstName,1,1) = 'A' or LEFT(FirstName,1) = 'L'
+
+-- 2.Yol
+
+select TitleOfCourtesy, FirstName, LastName   from Employees 
+where FirstName like 'A%' or FirstName like 'L%'
+ 
+select TitleOfCourtesy, FirstName, LastName   from Employees 
+where FirstName like '[AL]%'
+ 
+-- Adının içerisinde R veya T harfi bulunanlar
+
+select TitleOfCourtesy, FirstName, LastName   from Employees 
+where FirstName like '%[RT]%'
+
+ 
+ 
+
+-- Adı şu şekilde olanlar: tAmEr, yAsEmin, tAnEr (A ile E arasında tek bir karakter olanlar)
+
+select TitleOfCourtesy, FirstName, LastName   from Employees 
+where FirstName like '%A_E%'
+
+
+-- Adının ilk iki harfi LA, LN, AA veya AN olanlar
+
+
+
+
+
+
+
+
+
+
+
+
+-- GROUP BY Kullanımı
+-- Çalışanların ülkelerine göre gruplanması
+
+-- Çalışanların yapmış olduğu sipariş adedi   -- Orders 
+
+
+-- Ürün bedeli 35$'dan az olan ürünlerin kategorilerine "keyfi : (Kategori Adı, KategoriID değeri yer alsın )" göre gruplanması
+-- Baş harfi A-K aralığında olan ve stok miktarı 5 ile 50 arasında olan ürünleri kategorilerine(Kategori Adı) göre gruplayınız.
+-- 1) Baş harfi A-K aralığında olan
+-- 2) stok miktarı 5 ile 50 arasında olan ürünler
+-- 3) Kategori Adına göre gruplanması
+
+-- Her bir siparişteki toplam ürün sayısını bulunuz.  [Order_Details]
