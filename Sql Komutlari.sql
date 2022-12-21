@@ -423,9 +423,14 @@ where FirstName like '%A_E%'
 
 -- Adının ilk iki harfi LA, LN, AA veya AN olanlar
 
+--Nancy
+--Andrew
+--Laura
+--Anne
+ 
+ select FirstName from Employees where FirstName like '[LA,LN,AA,AN]%'
 
-
-
+ select FirstName from Employees where FirstName like '[LA][AN]%'
 
 
 
@@ -436,14 +441,131 @@ where FirstName like '%A_E%'
 
 -- GROUP BY Kullanımı
 -- Çalışanların ülkelerine göre gruplanması
+ 
+SELECT Country, COUNT(*) AS Adet FROM Employees GROUP BY Country
 
--- Çalışanların yapmış olduğu sipariş adedi   -- Orders 
+
+-- Çalışanların yapmış olduğu sipariş adedi   -- Orders  
+select (select FirstName+' '+LastName from Employees Where Employees.EmployeeID = O.EmployeeID ) as Personel , COUNT(*) as Adet from Orders O join [Order Details] OD on O.OrderID = OD.OrderID group by EmployeeID
+
+
+select  E.FirstName, E.LastName , COUNT(*) as Adet from Orders O join [Order Details] OD on O.OrderID = OD.OrderID join Employees E on E.EmployeeID = O.EmployeeID group by   E.FirstName, E.LastName 
+
+
+ 
 
 
 -- Ürün bedeli 35$'dan az olan ürünlerin kategorilerine "keyfi : (Kategori Adı, KategoriID değeri yer alsın )" göre gruplanması
+
+ 
+
+select C.CategoryName, COUNT(*) as Adet from Products P join Categories C on C.CategoryID = P.CategoryID where UnitPrice < 35
+group by C.CategoryName
+
+
+
+
+
+
+
 -- Baş harfi A-K aralığında olan ve stok miktarı 5 ile 50 arasında olan ürünleri kategorilerine(Kategori Adı) göre gruplayınız.
 -- 1) Baş harfi A-K aralığında olan
 -- 2) stok miktarı 5 ile 50 arasında olan ürünler
 -- 3) Kategori Adına göre gruplanması
 
+
+select CategoryName, COUNT(*) Adet from Products P 
+join Categories C on C.CategoryID = P.CategoryID
+
+where (ProductName like '[A-K]%') and (UnitsInStock between 5 and 50)
+group by CategoryName
+
+
+
+select * from [Order Details] where OrderID = 10248
+ 
 -- Her bir siparişteki toplam ürün sayısını bulunuz.  [Order_Details]
+
+
+select OrderID, SUM(Quantity) from [Order Details] group by OrderID
+
+
+
+-- Group By Ödevi 
+
+-- ÖDEV
+-- 1) Toplam tutari 2500 ile 3500 arasinda olan siparişlerin gruplanması 
+-- 2) Her bir siparişteki toplam ürün sayisi 200'den az olanlar
+-- 3) Kategorilere göre toplam stok miktarını bulunuz. 
+-- 4) Her bir çalışan toplam ne kadarlık satış yapmıştır. 
+
+
+
+-- STORE PROCEDURE
+
+create procedure KargoEkle
+as
+insert into Shippers (CompanyName, Phone) values ('MNG Kargo','444 55 22')
+ 
+select * from Shippers
+
+execute KargoEkle
+
+
+alter Procedure KategoriEkle 
+@categoryAdi nvarchar(15),
+@acikalama nvarchar(max)
+as 
+insert into Categories (CategoryName,Description) values (@categoryAdi,@acikalama)
+
+execute KategoriEkle 'Yeni Kategori', 'Açıkalama Alanı Olarak Kullanıyoruz'
+
+select * from Categories
+
+execute KategoriEkle  @acikalama = 'Açıklama ALanı',@categoryAdi = 'K Adı'
+
+--void KategoriEkle(string categoryName, string aciklama){
+--  Category c = new ();
+--  c.CategoryName = categoryName;
+--  c.Description = aciklama;
+--}
+
+--KategoriEkle("kategori adı", "açıklama");
+
+
+-- Customers tablosunun tüm alanlarına ekleme yapan sp yazınız
+
+CREATE PROC MusteriEkle
+    @CustomerID   NCHAR(5),					
+    @CompanyName  NVARCHAR(40) = 'Boş Alan',
+    @ContactName  NVARCHAR(30) = 'Boş Alan',
+    @ContactTitle NVARCHAR(30) = 'Boş Alan',
+    @Address      NVARCHAR(60) = 'Boş Alan',
+    @City         NVARCHAR(15) = 'Boş Alan',
+    @Region       NVARCHAR(15) = 'Boş Alan',
+    @PostalCode   NVARCHAR(10) = 'Boş Alan',
+    @Country      NVARCHAR(15) = 'Boş Alan',
+    @Phone        NVARCHAR(24) = 'Boş Alan',
+    @Fax          NVARCHAR(24) = 'Boş Alan'	
+AS											
+    INSERT INTO Customers					
+    VALUES									
+        (									
+            @CustomerID,					
+            @CompanyName,					
+            @ContactName,					
+            @ContactTitle,					
+            @Address,						
+            @City,							
+            @Region,						
+            @PostalCode,					
+            @Country,						
+            @Phone,							
+            @Fax							
+        )			
+		
+	 MusteriEkle 'C1DMY', 'Code Academy'	 
+	 select * from Customers where CustomerID = 'C1DMY'
+
+
+ 
