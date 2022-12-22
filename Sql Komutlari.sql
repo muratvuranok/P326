@@ -568,4 +568,66 @@ AS
 	 select * from Customers where CustomerID = 'C1DMY'
 
 
+ -- Group By Ödevi 
+
+-- ÖDEV
+-- 1) Toplam tutari 2500 ile 3500 arasinda olan siparişlerin gruplanması 
+
+
+select OrderId, SUM(Quantity * UnitPrice) from [Order Details]
+-- where SUM(Quantity * UnitPrice) between 2500 and 3500
+group by OrderID
+having SUM(Quantity * UnitPrice) between 2500 and 3500
+order by 2
+
+
+-- 2) Her bir siparişteki toplam ürün sayisi 200'den az olanlar
+
+select OrderID, SUM(Quantity) as Toplam from [Order Details]
+group by OrderID
+having SUM(Quantity) < 200
+order by 2 desc
+
+-- 3) Kategorilere göre toplam stok miktarını bulunuz. 
+select C.CategoryID, C.CategoryName, CONVERT(nvarchar(MAX),C.Description) as [Description], SUM(P.UnitsInStock) as 'Toplam Stok' from Categories C join Products P on C.CategoryID = P.CategoryID
+group by C.CategoryID, C.CategoryName, CAST(C.Description as nvarchar(MAX))
+
+-- 4) Her bir çalışan toplam ne kadarlık satış yapmıştır. 
+
+select (select CONCAT(FirstName, ' ', LastName)  from Employees E where E.EmployeeID = O.EmployeeID) as Personel, SUM(UnitPrice*Quantity) as ToplamSatis from [Order Details] OD join Orders O
+on OD.OrderID= O.OrderID group by EmployeeID 
+order by 2 
+
+
  
+
+
+ -- trigger :)
+
+ select * from Products where ProductID = 77  -- 32  -- 25
+
+ select * from [Order Details] where OrderID = 10248
+  
+ALTER TRIGGER      -- trigger olşturma komutu
+SatisYap           -- trigger adı
+ON [Order Details] -- hangi tablo üzerinde çalışacak, trigger'lar tablo bazlı (esaslı) çalışır
+AFTER              -- ne zaman çalışacak
+INSERT             -- hangi işlemden sonra çalışacak
+AS
+BEGIN
+    DECLARE @ProductId INT, @Quantity  SMALLINT
+    SELECT  @ProductId = ProductID, @Quantity = Quantity FROM  INSERTED
+    UPDATE  Products SET  UnitsInStock = (UnitsInStock - @Quantity)  WHERE  ProductID    = @ProductId
+END
+
+-- Sipariş iptal edildiğinde, stok miktarını arrtıran trigger yazınız :)
+ 
+ -- trigger içerisinde 2 adet tablo yer alır.
+ --                         Insert       Delete       Update   
+ -- inserted                  +            -            +
+ -- deleted                   -            +            +
+
+SELECT * FROM [Order Details] WHERE OrderID = 10248
+SELECT * FROM Products WHERE ProductID = 77   -- stok adet = 32 25
+INSERT INTO   [Order Details] VALUES(10248, 77,10,7,0)
+DELETE FROM [Order Details] WHERE OrderID = 10248 AND ProductID = 77
