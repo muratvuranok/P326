@@ -608,7 +608,7 @@ order by 2
 
  select * from [Order Details] where OrderID = 10248
   
-ALTER TRIGGER      -- trigger olşturma komutu
+CREATE TRIGGER      -- trigger olşturma komutu
 SatisYap           -- trigger adı
 ON [Order Details] -- hangi tablo üzerinde çalışacak, trigger'lar tablo bazlı (esaslı) çalışır
 AFTER              -- ne zaman çalışacak
@@ -631,3 +631,49 @@ SELECT * FROM [Order Details] WHERE OrderID = 10248
 SELECT * FROM Products WHERE ProductID = 77   -- stok adet = 32 25
 INSERT INTO   [Order Details] VALUES(10248, 77,10,7,0)
 DELETE FROM [Order Details] WHERE OrderID = 10248 AND ProductID = 77
+
+ALTER TRIGGER      -- trigger olşturma komutu
+SatisIptal          -- trigger adı
+ON [Order Details] -- hangi tablo üzerinde çalışacak, trigger'lar tablo bazlı (esaslı) çalışır
+AFTER              -- ne zaman çalışacak
+DELETE             -- hangi işlemden sonra çalışacak
+AS
+BEGIN
+    DECLARE @ProductId INT, @Quantity  SMALLINT
+    SELECT  @ProductId = ProductID, @Quantity = Quantity FROM  DELETED
+    UPDATE  Products SET  UnitsInStock = (UnitsInStock + @Quantity)  WHERE  ProductID    = @ProductId
+END
+
+
+-- Kargo Eklendiğinde, Telefon Numarasını Formatlayan Trigger :)
+
+
+--5558967845
+--(555) 896 45-52
+
+
+ALTER TRIGGER FORMATPHONE ON Shippers INSTEAD OF INSERT
+AS
+BEGIN
+     DECLARE @SirketAdi NVARCHAR(24), @Telefon NVARCHAR(24), @YeniTelefonNumarasi NVARCHAR(24)   -- değişken(variable - değişen) tanımlama
+     SELECT @SirketAdi = CompanyName, @Telefon = Phone FROM INSERTED
+
+	 SET @YeniTelefonNumarasi = CONCAT('(', LEFT(@Telefon,3) ,') ' ,   SUBSTRING(@Telefon,3,3),' ',  SUBSTRING(@Telefon,7,2), '-', RIGHT(@Telefon,2))
+	 INSERT INTO Shippers VALUES( @SirketAdi, @YeniTelefonNumarasi )
+END
+ 
+
+INSERT INTO Shippers VALUES ('Aras Kargo','5558964552')
+SELECT * FROM Shippers
+
+
+
+
+
+
+-- Bir tablo üzerinde hangi işlem yapıldığını print eden trigger yazınız, tek bir trigger olacak ve her işlemi bildirecek
+
+
+print('Shippers Tablosuna -> Aras Kargo Firması Eklendi, Telefon Numarası : 87641234') 
+print('Shippers Tablosundan -> Aras Kargo Firması, Silindi')
+print('Shippers Tablosunda Yer Alan -> Aras Kargo Firmasının Yeni Bilgileri : Firma Adı : MNG Kargo, Telefon Numarası : 454784 olarak güncellendi')
