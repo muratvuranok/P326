@@ -1,0 +1,63 @@
+--SELECT Distinct  'dotnet sln add '+TABLE_NAME+'\'+TABLE_NAME+'.csproj'
+
+
+
+-- Action
+-- Repository
+-- Validation
+-- Services
+cd Action 
+mkdir Categories 
+cd .. 
+cd  Repository 
+mkdir Categories 
+cd .. 
+cd Validation 
+mkdir Categories 
+cd .. 
+cd Services 
+mkdir Categories
+
+SELECT Distinct  'cd Action & mkdir '+TABLE_NAME + ' & cd .. & cd Repository & mkdir '+TABLE_NAME  +' & cd .. & cd Validation & mkdir '+TABLE_NAME+ ' & cd .. & cd Services & mkdir '+ TABLE_NAME    +' & cd ..'
+FROM INFORMATION_SCHEMA.TABLES
+WHERE TABLE_TYPE = 'BASE TABLE' AND TABLE_CATALOG='Northwind' and TABLE_Name != '__EFMigrationsHistory'
+
+
+
+
+cd Action & mkdir CustomerCustomerDemo & cd .. & cd Repository & mkdir CustomerCustomerDemo  & cd .. & cd Validation & mkdir CustomerCustomerDemo & cd .. & cd Services & mkdir CustomerCustomerDemo
+
+
+-- dotnet sln add Accounts\Accounts.csproj
+
+-- dotnet new console -n  Accounts
+
+use Northwind
+
+SELECT CONCAT(
+                 'public ',
+                 IIF(DATA_TYPE = 'nvarchar', 'string' + (IIF(IS_NULLABLE = 'YES', '?', '')), ''),
+                 IIF(DATA_TYPE = 'uniqueidentifier', 'string' + (IIF(IS_NULLABLE = 'YES', '?', '')), ''),
+                 IIF(DATA_TYPE = 'ntext', 'string' + (IIF(IS_NULLABLE = 'YES', '?', '')), ''),
+                 IIF(DATA_TYPE = 'nchar', 'string' + (IIF(IS_NULLABLE = 'YES', '?', '')), ''),
+                 IIF(DATA_TYPE = 'int', 'int' + (IIF(IS_NULLABLE = 'YES', '?', '')), ''),
+                 IIF(DATA_TYPE = 'smallint', 'short' + (IIF(IS_NULLABLE = 'YES', '?', '')), ''),
+                 IIF(DATA_TYPE = 'tinyint', 'byte' + (IIF(IS_NULLABLE = 'YES', '?', '')), ''),
+                 IIF(DATA_TYPE = 'money', 'decimal' + (IIF(IS_NULLABLE = 'YES', '?', '')), ''),
+                 IIF(DATA_TYPE = 'float', 'float' + (IIF(IS_NULLABLE = 'YES', '?', '')), ''),
+                 IIF(DATA_TYPE = 'decimal', 'decimal' + (IIF(IS_NULLABLE = 'YES', '?', '')), ''),
+                 IIF(DATA_TYPE = 'bit', 'bool' + (IIF(IS_NULLABLE = 'YES', '?', '')), ''),
+                 IIF(DATA_TYPE = 'datetime', 'DateTime' + (IIF(IS_NULLABLE = 'YES', '?', '')), ''),
+                 IIF(DATA_TYPE = 'date', 'DateTime' + (IIF(IS_NULLABLE = 'YES', '?', '')), ''),
+                 IIF(DATA_TYPE = 'datetime2', 'DateTime' + (IIF(IS_NULLABLE = 'YES', '?', '')), ''),
+                 IIF(DATA_TYPE = 'image', 'byte[]' + (IIF(IS_NULLABLE = 'YES', '?', '')), ''),
+                 ' ',
+                 COLUMN_NAME,
+                 ' { get; set; }'
+                 + (IIF((DATA_TYPE = 'nvarchar' or DATA_TYPE = 'nchar') and (IS_NULLABLE = 'NO'), ' = null!;', ''))
+             )
+FROM INFORMATION_SCHEMA.COLUMNS
+WHERE TABLE_NAME = N'Customers'
+      and TABLE_SCHEMA = 'dbo'
+
+ 
