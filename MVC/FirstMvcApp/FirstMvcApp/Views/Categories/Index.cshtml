@@ -1,0 +1,17 @@
+﻿<h1 class="display-1">Kategori Index Sayfası</h1>
+
+
+
+@DateTime.Now Günün tarihi
+
+
+@{
+    string[] sehirler = { "Ankara", "Edirne", "İstanbul", "Baku", "Gence" };
+}
+
+<ul>
+    @foreach (var sehir in sehirler)
+    {
+        <li>@sehir</li>
+    }
+</ul>
