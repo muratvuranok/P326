@@ -1,0 +1,753 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MVCBlog.UI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MVCBlog.UI.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\bower_components\\FlexSlider\\flexslider.css",
+      "PackagePath": "staticwebassets\\bower_components\\FlexSlider\\flexslider.css"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\bower_components\\FlexSlider\\fonts\\flexslider-icon.eot",
+      "PackagePath": "staticwebassets\\bower_components\\FlexSlider\\fonts\\flexslider-icon.eot"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\bower_components\\FlexSlider\\fonts\\flexslider-icon.ttf",
+      "PackagePath": "staticwebassets\\bower_components\\FlexSlider\\fonts\\flexslider-icon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\bower_components\\FlexSlider\\fonts\\flexslider-icon.woff",
+      "PackagePath": "staticwebassets\\bower_components\\FlexSlider\\fonts\\flexslider-icon.woff"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\bower_components\\FlexSlider\\images\\bg_play_pause.png",
+      "PackagePath": "staticwebassets\\bower_components\\FlexSlider\\images\\bg_play_pause.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\bower_components\\fancybox\\blank.gif",
+      "PackagePath": "staticwebassets\\bower_components\\fancybox\\blank.gif"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\bower_components\\fancybox\\fancybox_loading.gif",
+      "PackagePath": "staticwebassets\\bower_components\\fancybox\\fancybox_loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\bower_components\\fancybox\\fancybox_loading@2x.gif",
+      "PackagePath": "staticwebassets\\bower_components\\fancybox\\fancybox_loading@2x.gif"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\bower_components\\fancybox\\fancybox_overlay.png",
+      "PackagePath": "staticwebassets\\bower_components\\fancybox\\fancybox_overlay.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\bower_components\\fancybox\\fancybox_sprite.png",
+      "PackagePath": "staticwebassets\\bower_components\\fancybox\\fancybox_sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\bower_components\\fancybox\\fancybox_sprite@2x.png",
+      "PackagePath": "staticwebassets\\bower_components\\fancybox\\fancybox_sprite@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\bower_components\\fancybox\\helpers\\fancybox_buttons.png",
+      "PackagePath": "staticwebassets\\bower_components\\fancybox\\helpers\\fancybox_buttons.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\bower_components\\fancybox\\helpers\\jquery.fancybox-buttons.css",
+      "PackagePath": "staticwebassets\\bower_components\\fancybox\\helpers\\jquery.fancybox-buttons.css"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\bower_components\\fancybox\\helpers\\jquery.fancybox-thumbs.css",
+      "PackagePath": "staticwebassets\\bower_components\\fancybox\\helpers\\jquery.fancybox-thumbs.css"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\bower_components\\fancybox\\jquery.fancybox.css",
+      "PackagePath": "staticwebassets\\bower_components\\fancybox\\jquery.fancybox.css"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\bower_components\\megafolio\\assets\\black50.png",
+      "PackagePath": "staticwebassets\\bower_components\\megafolio\\assets\\black50.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\bower_components\\megafolio\\assets\\grain.png",
+      "PackagePath": "staticwebassets\\bower_components\\megafolio\\assets\\grain.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\bower_components\\megafolio\\assets\\link.png",
+      "PackagePath": "staticwebassets\\bower_components\\megafolio\\assets\\link.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\bower_components\\megafolio\\assets\\link_clean.png",
+      "PackagePath": "staticwebassets\\bower_components\\megafolio\\assets\\link_clean.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\bower_components\\megafolio\\assets\\loader.gif",
+      "PackagePath": "staticwebassets\\bower_components\\megafolio\\assets\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\bower_components\\megafolio\\assets\\lupe.png",
+      "PackagePath": "staticwebassets\\bower_components\\megafolio\\assets\\lupe.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\bower_components\\megafolio\\assets\\plus.png",
+      "PackagePath": "staticwebassets\\bower_components\\megafolio\\assets\\plus.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\bower_components\\megafolio\\assets\\resize.png",
+      "PackagePath": "staticwebassets\\bower_components\\megafolio\\assets\\resize.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\bower_components\\megafolio\\assets\\socialbar-bg.png",
+      "PackagePath": "staticwebassets\\bower_components\\megafolio\\assets\\socialbar-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\bower_components\\megafolio\\assets\\tiles\\bgtile.jpg",
+      "PackagePath": "staticwebassets\\bower_components\\megafolio\\assets\\tiles\\bgtile.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\bower_components\\megafolio\\assets\\tiles\\blog.png",
+      "PackagePath": "staticwebassets\\bower_components\\megafolio\\assets\\tiles\\blog.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\bower_components\\megafolio\\assets\\tiles\\buy.png",
+      "PackagePath": "staticwebassets\\bower_components\\megafolio\\assets\\tiles\\buy.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\bower_components\\megafolio\\assets\\tiles\\check.png",
+      "PackagePath": "staticwebassets\\bower_components\\megafolio\\assets\\tiles\\check.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\bower_components\\megafolio\\assets\\tiles\\closer.png",
+      "PackagePath": "staticwebassets\\bower_components\\megafolio\\assets\\tiles\\closer.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\bower_components\\megafolio\\assets\\tiles\\colorpicker.png",
+      "PackagePath": "staticwebassets\\bower_components\\megafolio\\assets\\tiles\\colorpicker.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\bower_components\\megafolio\\assets\\tiles\\diag.png",
+      "PackagePath": "staticwebassets\\bower_components\\megafolio\\assets\\tiles\\diag.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\bower_components\\megafolio\\assets\\tiles\\givetry.png",
+      "PackagePath": "staticwebassets\\bower_components\\megafolio\\assets\\tiles\\givetry.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\bower_components\\megafolio\\assets\\tiles\\grain.png",
+      "PackagePath": "staticwebassets\\bower_components\\megafolio\\assets\\tiles\\grain.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\bower_components\\megafolio\\assets\\tiles\\headergradient.png",
+      "PackagePath": "staticwebassets\\bower_components\\megafolio\\assets\\tiles\\headergradient.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\bower_components\\megafolio\\assets\\tiles\\image.png",
+      "PackagePath": "staticwebassets\\bower_components\\megafolio\\assets\\tiles\\image.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\bower_components\\megafolio\\assets\\tiles\\link.png",
+      "PackagePath": "staticwebassets\\bower_components\\megafolio\\assets\\tiles\\link.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\bower_components\\megafolio\\assets\\tiles\\list.png",
+      "PackagePath": "staticwebassets\\bower_components\\megafolio\\assets\\tiles\\list.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\bower_components\\megafolio\\assets\\tiles\\logo.png",
+      "PackagePath": "staticwebassets\\bower_components\\megafolio\\assets\\tiles\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\bower_components\\megafolio\\assets\\tiles\\low_contrast_linen.png",
+      "PackagePath": "staticwebassets\\bower_components\\megafolio\\assets\\tiles\\low_contrast_linen.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\bower_components\\megafolio\\assets\\tiles\\media.png",
+      "PackagePath": "staticwebassets\\bower_components\\megafolio\\assets\\tiles\\media.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\bower_components\\megafolio\\assets\\tiles\\metro.png",
+      "PackagePath": "staticwebassets\\bower_components\\megafolio\\assets\\tiles\\metro.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\bower_components\\megafolio\\assets\\tiles\\navy_blue.png",
+      "PackagePath": "staticwebassets\\bower_components\\megafolio\\assets\\tiles\\navy_blue.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\bower_components\\megafolio\\assets\\tiles\\opener.png",
+      "PackagePath": "staticwebassets\\bower_components\\megafolio\\assets\\tiles\\opener.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\bower_components\\megafolio\\assets\\tiles\\portfolio.png",
+      "PackagePath": "staticwebassets\\bower_components\\megafolio\\assets\\tiles\\portfolio.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\bower_components\\megafolio\\assets\\tiles\\slogenshadow.png",
+      "PackagePath": "staticwebassets\\bower_components\\megafolio\\assets\\tiles\\slogenshadow.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\bower_components\\megafolio\\assets\\tiles\\topgradient.png",
+      "PackagePath": "staticwebassets\\bower_components\\megafolio\\assets\\tiles\\topgradient.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\bower_components\\megafolio\\assets\\tiles\\twitter.png",
+      "PackagePath": "staticwebassets\\bower_components\\megafolio\\assets\\tiles\\twitter.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\bower_components\\megafolio\\assets\\tiles\\zoom.png",
+      "PackagePath": "staticwebassets\\bower_components\\megafolio\\assets\\tiles\\zoom.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\bower_components\\megafolio\\assets\\white50.png",
+      "PackagePath": "staticwebassets\\bower_components\\megafolio\\assets\\white50.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\bower_components\\megafolio\\assets\\zoom_clean.png",
+      "PackagePath": "staticwebassets\\bower_components\\megafolio\\assets\\zoom_clean.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\bower_components\\megafolio\\css\\settings.css",
+      "PackagePath": "staticwebassets\\bower_components\\megafolio\\css\\settings.css"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\bower_components\\megafolio\\icons\\comments.png",
+      "PackagePath": "staticwebassets\\bower_components\\megafolio\\icons\\comments.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\bower_components\\megafolio\\icons\\facebook.png",
+      "PackagePath": "staticwebassets\\bower_components\\megafolio\\icons\\facebook.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\bower_components\\megafolio\\icons\\like.png",
+      "PackagePath": "staticwebassets\\bower_components\\megafolio\\icons\\like.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\bower_components\\megafolio\\icons\\more.png",
+      "PackagePath": "staticwebassets\\bower_components\\megafolio\\icons\\more.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\bower_components\\megafolio\\icons\\twitter.png",
+      "PackagePath": "staticwebassets\\bower_components\\megafolio\\icons\\twitter.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\bower_components\\owl.carousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\bower_components\\owl.carousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\css\\color.css",
+      "PackagePath": "staticwebassets\\css\\color.css"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\fonts\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\fonts\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\fonts\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\fonts\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\fonts\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\fonts\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\fonts\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\fonts\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\fonts\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\fonts\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\fonts\\less\\animated.less",
+      "PackagePath": "staticwebassets\\fonts\\less\\animated.less"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\fonts\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\fonts\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\fonts\\less\\core.less",
+      "PackagePath": "staticwebassets\\fonts\\less\\core.less"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\fonts\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\fonts\\less\\fixed-width.less"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\fonts\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\fonts\\less\\font-awesome.less"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\fonts\\less\\icons.less",
+      "PackagePath": "staticwebassets\\fonts\\less\\icons.less"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\fonts\\less\\larger.less",
+      "PackagePath": "staticwebassets\\fonts\\less\\larger.less"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\fonts\\less\\list.less",
+      "PackagePath": "staticwebassets\\fonts\\less\\list.less"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\fonts\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\fonts\\less\\mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\fonts\\less\\path.less",
+      "PackagePath": "staticwebassets\\fonts\\less\\path.less"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\fonts\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\fonts\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\fonts\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\fonts\\less\\stacked.less"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\fonts\\less\\variables.less",
+      "PackagePath": "staticwebassets\\fonts\\less\\variables.less"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\fonts\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\fonts\\scss\\_animated.scss"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\fonts\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\fonts\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\fonts\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\fonts\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\fonts\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\fonts\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\fonts\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\fonts\\scss\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\fonts\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\fonts\\scss\\_larger.scss"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\fonts\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\fonts\\scss\\_list.scss"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\fonts\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\fonts\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\fonts\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\fonts\\scss\\_path.scss"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\fonts\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\fonts\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\fonts\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\fonts\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\fonts\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\fonts\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\fonts\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\fonts\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\footer-logo.png",
+      "PackagePath": "staticwebassets\\images\\footer-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\logo@2x.png",
+      "PackagePath": "staticwebassets\\images\\logo@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\about-author-bg-image.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\about-author-bg-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\about-me-featured-image.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\about-me-featured-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\banner-widget.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\banner-widget.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\bg-image.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\bg-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\comment-avatar01.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\comment-avatar01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\comment-avatar02.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\comment-avatar02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\contact-featured-image.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\contact-featured-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\elements-featured-image.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\elements-featured-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\footer-instagram-item01.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\footer-instagram-item01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\footer-instagram-item02.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\footer-instagram-item02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\footer-instagram-item03.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\footer-instagram-item03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\footer-instagram-item04.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\footer-instagram-item04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\footer-instagram-item05.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\footer-instagram-item05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\footer-instagram-item06.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\footer-instagram-item06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\footer-instagram-item07.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\footer-instagram-item07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\footer-instagram-item08.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\footer-instagram-item08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\footer-instagram-item09.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\footer-instagram-item09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\home-carousel-image01.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\home-carousel-image01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\home-carousel-image02.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\home-carousel-image02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\home-carousel-image03.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\home-carousel-image03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\home-carousel-image04.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\home-carousel-image04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\home-slider01.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\home-slider01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\home-slider02.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\home-slider02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\home-slider03.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\home-slider03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\home-slider04.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\home-slider04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\post-author-img.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\post-author-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\post-blog-list-img01.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\post-blog-list-img01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\post-blog-list-img02.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\post-blog-list-img02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\post-blog-list-img03.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\post-blog-list-img03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\post-blog-list-img04.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\post-blog-list-img04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\post-blog-list-img05.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\post-blog-list-img05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\post-blog-list-img06.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\post-blog-list-img06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\post-blog-list-img07.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\post-blog-list-img07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\post-blog-list-img08.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\post-blog-list-img08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\post-blog-list-img09.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\post-blog-list-img09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\post-blog-list-img10.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\post-blog-list-img10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\post-gallery-imag01.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\post-gallery-imag01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\post-gallery-imag02.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\post-gallery-imag02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\post-gallery-imag03.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\post-gallery-imag03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\post-img01.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\post-img01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\post-list-slide01.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\post-list-slide01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\post-list-slide02.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\post-list-slide02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\post-list-slide03.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\post-list-slide03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\post-list-slide04.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\post-list-slide04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\post-masonry-img01.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\post-masonry-img01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\post-masonry-img02_1.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\post-masonry-img02_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\post-masonry-img02_2.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\post-masonry-img02_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\post-masonry-img02_3.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\post-masonry-img02_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\post-masonry-img02_4.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\post-masonry-img02_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\post-masonry-img03.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\post-masonry-img03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\post-masonry-img04.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\post-masonry-img04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\post-single-featured-image01.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\post-single-featured-image01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\recent-post01.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\recent-post01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\recent-post02.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\recent-post02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\recent-post03.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\recent-post03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\recent-post04.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\recent-post04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\related-post01.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\related-post01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\related-post02.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\related-post02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\related-post03.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\related-post03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\related-post04.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\related-post04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\sidebar-about-me.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\sidebar-about-me.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\sidebar-featured-image.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\sidebar-featured-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\signature.png",
+      "PackagePath": "staticwebassets\\images\\upload\\signature.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\widget-instagram01.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\widget-instagram01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\widget-instagram02.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\widget-instagram02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\widget-instagram03.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\widget-instagram03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\widget-instagram04.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\widget-instagram04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\widget-instagram05.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\widget-instagram05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\widget-instagram06.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\widget-instagram06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\widget-instagram07.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\widget-instagram07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\widget-instagram08.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\widget-instagram08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\images\\upload\\widget-instagram09.jpg",
+      "PackagePath": "staticwebassets\\images\\upload\\widget-instagram09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\js\\classie.js",
+      "PackagePath": "staticwebassets\\js\\classie.js"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\js\\imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets\\js\\imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\js\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\js\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\js\\jquery.fitvids.js",
+      "PackagePath": "staticwebassets\\js\\jquery.fitvids.js"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\js\\jquery.hc-sticky.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.hc-sticky.min.js"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\js\\jquery.particleground.js",
+      "PackagePath": "staticwebassets\\js\\jquery.particleground.js"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\js\\placeholder.js",
+      "PackagePath": "staticwebassets\\js\\placeholder.js"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\js\\retina.js",
+      "PackagePath": "staticwebassets\\js\\retina.js"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\js\\search.js",
+      "PackagePath": "staticwebassets\\js\\search.js"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\js\\vendor\\jquery-1.11.3.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\jquery-1.11.3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCBlog.UI\\MVCBlog.UI\\wwwroot\\js\\vendor\\modernizr.custom.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\modernizr.custom.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.MVCBlog.UI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.MVCBlog.UI.props",
+      "PackagePath": "build\\MVCBlog.UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.MVCBlog.UI.props",
+      "PackagePath": "buildMultiTargeting\\MVCBlog.UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.MVCBlog.UI.props",
+      "PackagePath": "buildTransitive\\MVCBlog.UI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

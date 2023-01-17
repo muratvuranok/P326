@@ -1,0 +1,16 @@
+﻿@model Post
+
+<div class="recent-wrap">
+    <div class="recent-post-thumb">
+        <a href="#">
+            <figure>
+                <div class="overlay-hover"></div>
+                <img style="width:auto" class="img-rounded" src="@Model.ImageUrl" alt="recent post" />
+            </figure>
+        </a>
+    </div>
+    <div class="recent-post-detail">
+        <h4>@Model.Name</h4>
+        <a href="#">Read more</a>
+    </div>
+</div>
