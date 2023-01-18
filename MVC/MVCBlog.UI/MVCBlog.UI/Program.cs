@@ -1,8 +1,11 @@
+using Microsoft.EntityFrameworkCore;
+using MVCBlog.UI.Data;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-
+builder.Services.AddDbContext<MVCBlogDataContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("default")));
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -16,8 +19,20 @@ app.UseRouting();
 
 app.UseAuthorization();
 
+
+app.MapControllerRoute(
+      name: "areas",
+      pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}"
+    );
+
+
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
+
+
+
+
+
 
 app.Run();
