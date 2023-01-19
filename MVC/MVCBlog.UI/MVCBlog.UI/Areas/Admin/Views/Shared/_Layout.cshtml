@@ -5,10 +5,19 @@
     <meta name="viewport" content="width=device-width" />
     <title>@ViewBag.Title</title>
     <link href="~/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    @await RenderSectionAsync("css", required:false)
 </head>
 <body>
-    <div class="flex-container">
+    <div class="container">
         @RenderBody()
     </div>
 </body>
+
+<footer>
+</footer>
+
+@await RenderSectionAsync("js1", required:false)
+<script src="~/lib/bootstrap/js/bootstrap.js"></script>
+@await RenderSectionAsync("js2", required:false)
 </html>
