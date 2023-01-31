@@ -13,9 +13,14 @@ namespace SignalRProject.Controllers
 
         public async Task<IActionResult> Index()
         {
-            var categories = await _categoryRepository.GetAll();
+            return View();
+        }
+
+        public async Task<IActionResult> GetCategories()
+        {
+           var categories = await _categoryRepository.GetAll();
             //await _categoryRepository.Create(new());
-            return View(model: categories);
+            return Ok( categories);
         }
     }
 }

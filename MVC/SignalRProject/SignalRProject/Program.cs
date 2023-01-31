@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+using SignalRProject;
 using SignalRProject.Data;
 using SignalRProject.Repositories;
 
@@ -12,9 +13,8 @@ builder.Services.AddDbContext<AppDataContext>(options => options.UseSqlServer(bu
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-builder.Services.AddTransient<ICategoryRepository, CategoryRepository>();
-
-
+builder.Services.AddTransient<ICategoryRepository, CategoryRepository>(); 
+builder.Services.AddSignalR();
 
 
 var app = builder.Build();
@@ -29,6 +29,8 @@ app.UseStaticFiles();
 app.UseRouting();
 
 app.UseAuthorization();
+app.MapHub<SignalRServer>("/signalRServer");
+
 
 app.MapControllerRoute(
     name: "default",

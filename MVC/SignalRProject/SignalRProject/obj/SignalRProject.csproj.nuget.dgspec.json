@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\SignalRProject\\SignalRProject\\SignalRProject.csproj": {}
+    "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\SignalRProject\\SignalRProject\\SignalRProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\SignalRProject\\SignalRProject\\SignalRProject.csproj": {
+    "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\SignalRProject\\SignalRProject\\SignalRProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\SignalRProject\\SignalRProject\\SignalRProject.csproj",
+        "projectUniqueName": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\SignalRProject\\SignalRProject\\SignalRProject.csproj",
         "projectName": "SignalRProject",
-        "projectPath": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\SignalRProject\\SignalRProject\\SignalRProject.csproj",
+        "projectPath": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\SignalRProject\\SignalRProject\\SignalRProject.csproj",
         "packagesPath": "C:\\Users\\murat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\SignalRProject\\SignalRProject\\obj\\",
+        "outputPath": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\SignalRProject\\SignalRProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -59,7 +59,7 @@
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[7.0.3, )"
+              "version": "[7.0.2, )"
             },
             "System.Data.SqlClient": {
               "target": "Package",
