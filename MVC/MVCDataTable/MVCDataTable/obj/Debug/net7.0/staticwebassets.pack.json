@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\js\\colVis.js",
+      "PackagePath": "staticwebassets\\js\\colVis.js"
+    },
+    {
       "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
