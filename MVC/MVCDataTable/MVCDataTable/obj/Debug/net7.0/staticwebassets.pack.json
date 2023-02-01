@@ -5,20 +5,720 @@
       "PackagePath": "staticwebassets\\MVCDataTable.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\css\\commerce.css",
+      "PackagePath": "staticwebassets\\css\\commerce.css"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\css\\custom.css",
+      "PackagePath": "staticwebassets\\css\\custom.css"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\css\\elegant-icon.css",
+      "PackagePath": "staticwebassets\\css\\elegant-icon.css"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\css\\jquery.selectBox.css",
+      "PackagePath": "staticwebassets\\css\\jquery.selectBox.css"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\css\\prettyPhoto.css",
+      "PackagePath": "staticwebassets\\css\\prettyPhoto.css"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\css\\settings.css",
+      "PackagePath": "staticwebassets\\css\\settings.css"
+    },
+    {
       "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\css\\style-selector.css",
+      "PackagePath": "staticwebassets\\css\\style-selector.css"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\css\\swatches-and-photos.css",
+      "PackagePath": "staticwebassets\\css\\swatches-and-photos.css"
     },
     {
       "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\fonts\\ElegantIcons.eot",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.eot"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\fonts\\ElegantIcons.svg",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.svg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\fonts\\ElegantIcons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\fonts\\ElegantIcons.woff",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.woff"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\fonts\\WooCommerce.eot",
+      "PackagePath": "staticwebassets\\fonts\\WooCommerce.eot"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\fonts\\WooCommerce.svg",
+      "PackagePath": "staticwebassets\\fonts\\WooCommerce.svg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\fonts\\WooCommerce.ttf",
+      "PackagePath": "staticwebassets\\fonts\\WooCommerce.ttf"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\fonts\\WooCommerce.woff",
+      "PackagePath": "staticwebassets\\fonts\\WooCommerce.woff"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\fonts\\revicons.eot",
+      "PackagePath": "staticwebassets\\fonts\\revicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\fonts\\revicons.svg",
+      "PackagePath": "staticwebassets\\fonts\\revicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\fonts\\revicons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\revicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\fonts\\revicons.woff",
+      "PackagePath": "staticwebassets\\fonts\\revicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\fonts\\star.eot",
+      "PackagePath": "staticwebassets\\fonts\\star.eot"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\fonts\\star.svg",
+      "PackagePath": "staticwebassets\\fonts\\star.svg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\fonts\\star.ttf",
+      "PackagePath": "staticwebassets\\fonts\\star.ttf"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\fonts\\star.woff",
+      "PackagePath": "staticwebassets\\fonts\\star.woff"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\avatar\\thumb_50x50.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar\\thumb_50x50.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\background\\pattern-1.png",
+      "PackagePath": "staticwebassets\\images\\background\\pattern-1.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\background\\pattern-10.png",
+      "PackagePath": "staticwebassets\\images\\background\\pattern-10.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\background\\pattern-2.png",
+      "PackagePath": "staticwebassets\\images\\background\\pattern-2.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\background\\pattern-3.png",
+      "PackagePath": "staticwebassets\\images\\background\\pattern-3.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\background\\pattern-4.png",
+      "PackagePath": "staticwebassets\\images\\background\\pattern-4.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\background\\pattern-5.png",
+      "PackagePath": "staticwebassets\\images\\background\\pattern-5.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\background\\pattern-6.png",
+      "PackagePath": "staticwebassets\\images\\background\\pattern-6.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\background\\pattern-7.png",
+      "PackagePath": "staticwebassets\\images\\background\\pattern-7.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\background\\pattern-8.png",
+      "PackagePath": "staticwebassets\\images\\background\\pattern-8.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\background\\pattern-9.png",
+      "PackagePath": "staticwebassets\\images\\background\\pattern-9.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\bg_1920x438.jpg",
+      "PackagePath": "staticwebassets\\images\\bg_1920x438.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\bg_1920x564.jpg",
+      "PackagePath": "staticwebassets\\images\\bg_1920x564.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\bg_1920x631.jpg",
+      "PackagePath": "staticwebassets\\images\\bg_1920x631.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\bg_1920x759.jpg",
+      "PackagePath": "staticwebassets\\images\\bg_1920x759.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\blog\\blog_270x174.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog_270x174.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\blog\\blog_370x238.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog_370x238.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\blog\\blog_700x450.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog_700x450.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\blog\\blog_870x559.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog_870x559.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\blog\\thumb\\blog_300x300.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\thumb\\blog_300x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\blog\\thumb\\blog_370x370.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\thumb\\blog_370x370.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\blog\\thumb\\blog_500x500.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\thumb\\blog_500x500.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\blog\\thumb\\blog_70x70.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\thumb\\blog_70x70.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\brand\\thumb_134x120.png",
+      "PackagePath": "staticwebassets\\images\\brand\\thumb_134x120.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\category\\thumb_600x300.jpg",
+      "PackagePath": "staticwebassets\\images\\category\\thumb_600x300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\category\\thumb_600x600.jpg",
+      "PackagePath": "staticwebassets\\images\\category\\thumb_600x600.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\client\\client_270x100.png",
+      "PackagePath": "staticwebassets\\images\\client\\client_270x100.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\home2_img2.png",
+      "PackagePath": "staticwebassets\\images\\home2_img2.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\img_about.jpg",
+      "PackagePath": "staticwebassets\\images\\img_about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\instagram\\thumb_320x320.jpg",
+      "PackagePath": "staticwebassets\\images\\instagram\\thumb_320x320.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\logo-fixed.png",
+      "PackagePath": "staticwebassets\\images\\logo-fixed.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\logo-mobile.png",
+      "PackagePath": "staticwebassets\\images\\logo-mobile.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\logo-white.png",
+      "PackagePath": "staticwebassets\\images\\logo-white.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\prettyPhoto\\dark_rounded\\btnNext.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\dark_rounded\\btnNext.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\prettyPhoto\\dark_rounded\\btnPrevious.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\dark_rounded\\btnPrevious.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\prettyPhoto\\dark_rounded\\contentPattern.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\dark_rounded\\contentPattern.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\prettyPhoto\\dark_rounded\\default_thumbnail.gif",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\dark_rounded\\default_thumbnail.gif"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\prettyPhoto\\dark_rounded\\loader.gif",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\dark_rounded\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\prettyPhoto\\dark_rounded\\sprite.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\dark_rounded\\sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\prettyPhoto\\dark_square\\btnNext.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\dark_square\\btnNext.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\prettyPhoto\\dark_square\\btnPrevious.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\dark_square\\btnPrevious.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\prettyPhoto\\dark_square\\contentPattern.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\dark_square\\contentPattern.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\prettyPhoto\\dark_square\\default_thumbnail.gif",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\dark_square\\default_thumbnail.gif"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\prettyPhoto\\dark_square\\loader.gif",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\dark_square\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\prettyPhoto\\dark_square\\sprite.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\dark_square\\sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\prettyPhoto\\default\\default_thumb.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\default\\default_thumb.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\prettyPhoto\\default\\loader.gif",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\default\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\prettyPhoto\\default\\sprite.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\default\\sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\prettyPhoto\\default\\sprite_next.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\default\\sprite_next.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\prettyPhoto\\default\\sprite_prev.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\default\\sprite_prev.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\prettyPhoto\\default\\sprite_x.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\default\\sprite_x.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\prettyPhoto\\default\\sprite_y.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\default\\sprite_y.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\prettyPhoto\\facebook\\btnNext.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\facebook\\btnNext.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\prettyPhoto\\facebook\\btnPrevious.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\facebook\\btnPrevious.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\prettyPhoto\\facebook\\contentPatternBottom.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\facebook\\contentPatternBottom.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\prettyPhoto\\facebook\\contentPatternLeft.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\facebook\\contentPatternLeft.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\prettyPhoto\\facebook\\contentPatternRight.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\facebook\\contentPatternRight.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\prettyPhoto\\facebook\\contentPatternTop.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\facebook\\contentPatternTop.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\prettyPhoto\\facebook\\default_thumbnail.gif",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\facebook\\default_thumbnail.gif"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\prettyPhoto\\facebook\\loader.gif",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\facebook\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\prettyPhoto\\facebook\\sprite.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\facebook\\sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\prettyPhoto\\light_rounded\\btnNext.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\light_rounded\\btnNext.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\prettyPhoto\\light_rounded\\btnPrevious.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\light_rounded\\btnPrevious.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\prettyPhoto\\light_rounded\\default_thumbnail.gif",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\light_rounded\\default_thumbnail.gif"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\prettyPhoto\\light_rounded\\loader.gif",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\light_rounded\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\prettyPhoto\\light_rounded\\sprite.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\light_rounded\\sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\prettyPhoto\\light_square\\btnNext.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\light_square\\btnNext.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\prettyPhoto\\light_square\\btnPrevious.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\light_square\\btnPrevious.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\prettyPhoto\\light_square\\default_thumbnail.gif",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\light_square\\default_thumbnail.gif"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\prettyPhoto\\light_square\\loader.gif",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\light_square\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\prettyPhoto\\light_square\\sprite.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\light_square\\sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\products\\detail\\detail_800x800.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\detail\\detail_800x800.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\products\\product_263x263.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_263x263.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\products\\product_263x263alt.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_263x263alt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\products\\product_328x328.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_328x328.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\products\\product_328x328alt.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_328x328alt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\products\\product_60x60.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_60x60.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\products\\product_80x80.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product_80x80.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\products\\thumb\\product_60x60.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\thumb\\product_60x60.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\products\\thumb\\product_72x72.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\thumb\\product_72x72.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\slideshow\\dummy.png",
+      "PackagePath": "staticwebassets\\images\\slideshow\\dummy.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\slideshow\\rev_home1_img3.png",
+      "PackagePath": "staticwebassets\\images\\slideshow\\rev_home1_img3.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\slideshow\\slider_1920x657.jpg",
+      "PackagePath": "staticwebassets\\images\\slideshow\\slider_1920x657.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\slideshow\\transparent.png",
+      "PackagePath": "staticwebassets\\images\\slideshow\\transparent.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\thumb_269x342.jpg",
+      "PackagePath": "staticwebassets\\images\\thumb_269x342.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\thumb_368x521.png",
+      "PackagePath": "staticwebassets\\images\\thumb_368x521.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\thumb_550x344.jpg",
+      "PackagePath": "staticwebassets\\images\\thumb_550x344.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\thumb_569x341.jpg",
+      "PackagePath": "staticwebassets\\images\\thumb_569x341.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\thumb_570x341.jpg",
+      "PackagePath": "staticwebassets\\images\\thumb_570x341.jpg"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\images\\zoom-cur.png",
+      "PackagePath": "staticwebassets\\images\\zoom-cur.png"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
       "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\js\\colVis.js",
       "PackagePath": "staticwebassets\\js\\colVis.js"
     },
     {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\js\\core.min.js",
+      "PackagePath": "staticwebassets\\js\\core.min.js"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\js\\easing.min.js",
+      "PackagePath": "staticwebassets\\js\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\js\\extensions\\index.php",
+      "PackagePath": "staticwebassets\\js\\extensions\\index.php"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\js\\extensions\\revolution.extension.actions.min.js",
+      "PackagePath": "staticwebassets\\js\\extensions\\revolution.extension.actions.min.js"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\js\\extensions\\revolution.extension.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\extensions\\revolution.extension.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\js\\extensions\\revolution.extension.kenburn.min.js",
+      "PackagePath": "staticwebassets\\js\\extensions\\revolution.extension.kenburn.min.js"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\js\\extensions\\revolution.extension.layeranimation.min.js",
+      "PackagePath": "staticwebassets\\js\\extensions\\revolution.extension.layeranimation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\js\\extensions\\revolution.extension.migration.min.js",
+      "PackagePath": "staticwebassets\\js\\extensions\\revolution.extension.migration.min.js"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\js\\extensions\\revolution.extension.navigation.min.js",
+      "PackagePath": "staticwebassets\\js\\extensions\\revolution.extension.navigation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\js\\extensions\\revolution.extension.parallax.min.js",
+      "PackagePath": "staticwebassets\\js\\extensions\\revolution.extension.parallax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\js\\extensions\\revolution.extension.slideanims.min.js",
+      "PackagePath": "staticwebassets\\js\\extensions\\revolution.extension.slideanims.min.js"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\js\\extensions\\revolution.extension.video.min.js",
+      "PackagePath": "staticwebassets\\js\\extensions\\revolution.extension.video.min.js"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\js\\extensions\\source\\index.php",
+      "PackagePath": "staticwebassets\\js\\extensions\\source\\index.php"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\js\\extensions\\source\\revolution.extension.actions.js",
+      "PackagePath": "staticwebassets\\js\\extensions\\source\\revolution.extension.actions.js"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\js\\extensions\\source\\revolution.extension.carousel.js",
+      "PackagePath": "staticwebassets\\js\\extensions\\source\\revolution.extension.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\js\\extensions\\source\\revolution.extension.kenburn.js",
+      "PackagePath": "staticwebassets\\js\\extensions\\source\\revolution.extension.kenburn.js"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\js\\extensions\\source\\revolution.extension.layeranimation.js",
+      "PackagePath": "staticwebassets\\js\\extensions\\source\\revolution.extension.layeranimation.js"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\js\\extensions\\source\\revolution.extension.migration.js",
+      "PackagePath": "staticwebassets\\js\\extensions\\source\\revolution.extension.migration.js"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\js\\extensions\\source\\revolution.extension.navigation.js",
+      "PackagePath": "staticwebassets\\js\\extensions\\source\\revolution.extension.navigation.js"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\js\\extensions\\source\\revolution.extension.parallax.js",
+      "PackagePath": "staticwebassets\\js\\extensions\\source\\revolution.extension.parallax.js"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\js\\extensions\\source\\revolution.extension.slideanims.js",
+      "PackagePath": "staticwebassets\\js\\extensions\\source\\revolution.extension.slideanims.js"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\js\\extensions\\source\\revolution.extension.video.js",
+      "PackagePath": "staticwebassets\\js\\extensions\\source\\revolution.extension.video.js"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\js\\imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets\\js\\imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\js\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\js\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\js\\jquery-migrate.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-migrate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\js\\jquery-ui-touch-punch.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-ui-touch-punch.min.js"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\js\\jquery.appear.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.appear.min.js"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\js\\jquery.carouFredSel.js",
+      "PackagePath": "staticwebassets\\js\\jquery.carouFredSel.js"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\js\\jquery.cookie.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.cookie.min.js"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\js\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\js\\jquery.magnific-popup.js",
+      "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.js"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\js\\jquery.parallax.js",
+      "PackagePath": "staticwebassets\\js\\jquery.parallax.js"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\js\\jquery.prettyPhoto.init.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.prettyPhoto.init.min.js"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\js\\jquery.prettyPhoto.js",
+      "PackagePath": "staticwebassets\\js\\jquery.prettyPhoto.js"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\js\\jquery.selectBox.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.selectBox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\js\\jquery.themepunch.revolution.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.themepunch.revolution.min.js"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\js\\jquery.themepunch.tools.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.themepunch.tools.min.js"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\js\\jquery.touchSwipe.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.touchSwipe.min.js"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\js\\jquery.transit.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.transit.min.js"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\js\\mouse.min.js",
+      "PackagePath": "staticwebassets\\js\\mouse.min.js"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\js\\price-slider.js",
+      "PackagePath": "staticwebassets\\js\\price-slider.js"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
       "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\js\\slider.min.js",
+      "PackagePath": "staticwebassets\\js\\slider.min.js"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\js\\style-selector.js",
+      "PackagePath": "staticwebassets\\js\\style-selector.js"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\js\\superfish-1.7.4.min.js",
+      "PackagePath": "staticwebassets\\js\\superfish-1.7.4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\js\\swatches-and-photos.js",
+      "PackagePath": "staticwebassets\\js\\swatches-and-photos.js"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\js\\widget.min.js",
+      "PackagePath": "staticwebassets\\js\\widget.min.js"
     },
     {
       "Id": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\MVCDataTable\\MVCDataTable\\wwwroot\\lib\\bootstrap\\LICENSE",

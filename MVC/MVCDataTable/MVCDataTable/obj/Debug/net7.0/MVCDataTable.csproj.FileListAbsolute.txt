@@ -243,3 +243,4 @@ C:\Users\murat\OneDrive\Desktop\P236\MVC\MVCDataTable\MVCDataTable\bin\Debug\net
 C:\Users\murat\OneDrive\Desktop\P236\MVC\MVCDataTable\MVCDataTable\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\murat\OneDrive\Desktop\P236\MVC\MVCDataTable\MVCDataTable\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\murat\OneDrive\Desktop\P236\MVC\MVCDataTable\MVCDataTable\obj\Debug\net7.0\MVCDataTable.csproj.CopyComplete
+C:\Users\murat\OneDrive\Desktop\P236\MVC\MVCDataTable\MVCDataTable\obj\Debug\net7.0\scopedcss\Views\Shared\_ECommerceLayout.cshtml.rz.scp.css
