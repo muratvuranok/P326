@@ -1,0 +1,32 @@
+﻿@model IEnumerable<Product>
+
+<div class="container">
+    <div class="row row-fluid mb-10">
+        <div class="col-sm-12">
+            <div class="caroufredsel product-slider nav-position-center"
+                 data-height="variable"
+                 data-visible-min="1"
+                 data-responsive="1"
+                 data-infinite="1"
+                 data-autoplay="0">
+                <div class="product-slider-title">
+                    <h3 class="el-heading">Best Products</h3>
+                </div>
+                <div class="caroufredsel-wrap">
+                    <div class="commerce columns-4">
+                        <ul class="products columns-4" data-columns="4">
+                            @foreach (var product in Model)
+                            {
+                                <li class="product product-no-border style-2">
+                                    <partial name="_ProductPartial" model="product" />
+                                </li>
+                            }
+                        </ul>
+                    </div>
+                    <a href="#" class="caroufredsel-prev"></a>
+                    <a href="#" class="caroufredsel-next"></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
