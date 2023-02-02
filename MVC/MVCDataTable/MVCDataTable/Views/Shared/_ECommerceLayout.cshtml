@@ -538,37 +538,99 @@
 				</div>
 			</div>
 		</div>
-		<div class="modal fade user-lostpassword-modal" id="userlostpasswordModal" tabindex="-1" role="dialog" aria-hidden="true">
-			<div class="modal-dialog">
-				<div class="modal-content">
-					<form id="userlostpasswordModalForm">
-						<div class="modal-header">
-							<button type="button" class="close" data-dismiss="modal">
-								<span aria-hidden="true">&times;</span><span class="sr-only">Close</span>
-							</button>
-							<h4 class="modal-title">Forgot Password</h4>
-						</div>
-						<div class="modal-body">
-							<div class="form-group">
-								<label>Username or E-mail:</label>
-								<input type="text" name="user_login" required class="form-control" value="" placeholder="Username or E-mail">
-							</div>
-						</div>
-						<div class="modal-footer">
-							<span class="user-login-modal-link pull-left">
-								<a data-rel="loginModal" href="#loginModal">Already have an account?</a>
-							</span>
-							<button type="submit" class="btn btn-default btn-outline">Sign in</button>
-						</div>
-					</form>
-				</div>
-			</div>
-		</div>
+    <div class="modal fade user-lostpassword-modal" id="userlostpasswordModal" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <form id="userlostpasswordModalForm">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal">
+                            <span aria-hidden="true">&times;</span><span class="sr-only">Close</span>
+                        </button>
+                        <h4 class="modal-title">Forgot Password</h4>
+                    </div>
+                    <div class="modal-body">
+                        <div class="form-group">
+                            <label>Username or E-mail:</label>
+                            <input type="text" name="user_login" required class="form-control" value="" placeholder="Username or E-mail">
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <span class="user-login-modal-link pull-left">
+                            <a data-rel="loginModal" href="#loginModal">Already have an account?</a>
+                        </span>
+                        <button type="submit" class="btn btn-default btn-outline">Sign in</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+	
+    <div class="minicart-side">
+        <div class="minicart-side-title">
+            <h4>Shopping Cart</h4>
+        </div>
+        <div class="minicart-side-content">
+            <div class="minicart">
+                <div class="minicart-header">
+                    4 items in the shopping cart
+                </div>
+                <div class="minicart-body">
+                    <div class="cart-product clearfix">
+                        <div class="cart-product-image">
+                            <a class="cart-product-img" href="#">
+                                <img width="300" height="300" src="images/products/product_60x60.jpg" alt=""/>
+                            </a>
+                        </div>
+                        <div class="cart-product-details">
+                            <div class="cart-product-title">
+                                <a href="#">Cras rhoncus duis viverra</a>
+                            </div>
+                            <div class="cart-product-quantity-price">
+                                1 x <span class="amount">&pound;321.00</span>
+                            </div>
+                        </div>
+                        <a href="#" class="remove" title="Remove this item">&times;</a>
+                    </div>
+                    <div class="cart-product clearfix">
+                        <div class="cart-product-image">
+                            <a class="cart-product-img" href="#">
+                                <img width="300" height="300" src="images/products/product_60x60.jpg" alt=""/>
+                            </a>
+                        </div>
+                        <div class="cart-product-details">
+                            <div class="cart-product-title">
+                                <a href="#">Donec tincidunt justo</a>
+                            </div>
+                            <div class="cart-product-quantity-price">
+                                3 x <span class="amount">&pound;19.00</span>
+                            </div>
+                        </div>
+                        <a href="#" class="remove" title="Remove this item">&times;</a>
+                    </div>
+                </div>
+                <div class="minicart-footer">
+                    <div class="minicart-total">
+                        Cart Subtotal <span class="amount">&pound;378.00</span>
+                    </div>
+                    <div class="minicart-actions clearfix">
+                        <a class="viewcart-button button" href="#">
+                            <span class="text">View Cart</span>
+                        </a>
+                        <a class="checkout-button button" href="#">
+                            <span class="text">Checkout</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    @*    
 		<div class="minicart-side">
-			<div class="minicart-side-title">
-				<h4>Shopping Cart</h4>
-			</div>
-			<div class="minicart-side-content">
+            <div class="minicart-side-title">
+                <h4>Shopping Cart</h4>
+            </div> 
+            <div class="minicart-side-content">
 				<div class="minicart">
 					<div class="minicart-header no-items show">
 						Your shopping bag is empty.
@@ -583,6 +645,7 @@
 				</div>
 			</div>
 		</div>
+		*@
 
 		<script type='text/javascript' src='js/jquery.js'></script>
 		<script type='text/javascript' src='js/jquery-migrate.min.js'></script>
