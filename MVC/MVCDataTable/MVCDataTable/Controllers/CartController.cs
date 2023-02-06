@@ -86,7 +86,7 @@ public class CartController : Controller
       new Product { ProductID = 76, ProductName = "Lakkalikööri",SupplierID = 23,CategoryID= 1,QuantityPerUnit = "500 ml",UnitPrice = 18.00M, UnitsInStock  = 57,UnitsOnOrder= 0 ,ReorderLevel= 20, Discontinued = true},
       new Product { ProductID = 77, ProductName = "Original Frankfurter grüne Soße",SupplierID = 12,CategoryID= 2,QuantityPerUnit = "12 boxes",UnitPrice = 13.00M, UnitsInStock  = 32,UnitsOnOrder= 0 ,ReorderLevel= 15, Discontinued = true},
  };
-     
+
     [HttpPost]
     public async Task<IActionResult> Add(int id)
     {
@@ -114,6 +114,12 @@ public class CartController : Controller
 
         return Json(_carts);
     }
+
+    public async Task<IActionResult> GetAll()
+    {
+        return Json(new { Id = 1 });
+    }
+
 
     // hepsi Json dönecek
     // Silme Metodu ( action ) eklenecek 
