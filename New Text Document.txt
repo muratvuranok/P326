@@ -34,6 +34,12 @@ cd Action & mkdir CustomerCustomerDemo & cd .. & cd Repository & mkdir CustomerC
 
 use Northwind
 
+select CONCAT(' new Product { ProductID = ',ProductID,', ProductName = "',ProductName,'",SupplierID = ',SupplierID,',CategoryID= ',CategoryID,',QuantityPerUnit = "',QuantityPerUnit,'",UnitPrice = ',UnitPrice,'M, UnitsInStock  = ',UnitsInStock,',UnitsOnOrder= ',UnitsOnOrder,' ,ReorderLevel= ',ReorderLevel,', Discontinued = true},') from Products 
+where ProductID <= 77
+
+
+
+
 SELECT CONCAT(
                  'public ',
                  IIF(DATA_TYPE = 'nvarchar', 'string' + (IIF(IS_NULLABLE = 'YES', '?', '')), ''),
@@ -57,7 +63,6 @@ SELECT CONCAT(
                  + (IIF((DATA_TYPE = 'nvarchar' or DATA_TYPE = 'nchar') and (IS_NULLABLE = 'NO'), ' = null!;', ''))
              )
 FROM INFORMATION_SCHEMA.COLUMNS
-WHERE TABLE_NAME = N'Customers'
+WHERE TABLE_NAME = N'Products'
       and TABLE_SCHEMA = 'dbo'
-
  
