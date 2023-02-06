@@ -6,7 +6,7 @@
         $.ajax({
             url: "/cart/add/" + id,
             method: "POST",
-            success: (data) => { console.log(data); GetCart(); },
+            success: (data) => { GetCart(); },
             error: (err) => { console.log(err) }
         });
     })
@@ -17,44 +17,9 @@
         $.getJSON('/cart/getall', function (data) {
             let cart = [];
             var total = 0;
-            var count = 0;
-
-            let items = [
-                {
-                    image: "",
-                    productId: 1,
-                    price: 18.00,
-                    productName: "Chai",
-                    count: 2,
-                    total: 36.00
-                },
-                {
-                    image: "",
-                    productId: 2,
-                    price: 19.00,
-                    productName: "Chang",
-                    count: 1,
-                    total: 19.00
-                },
-                {
-                    image: "",
-                    productId: 3,
-                    price: 10.00,
-                    productName: "Aniseed Syrup",
-                    count: 1,
-                    total: 10.00
-                },
-                {
-                    image: "",
-                    productId: 43,
-                    price: 50.00,
-                    productName: "Aniseed Syrup",
-                    count: 3,
-                    total: 150.00
-                }
-            ]
-
-            $.each(items, (key, value) => {
+            var count = 0; 
+           
+            $.each(data, (key, value) => {
 
                 total += value.total;
                 count += value.count;
@@ -86,7 +51,7 @@
                         ${count} items in the shopping cart
                     </div>
                 <div class="minicart-body">`;
-          
+
             let p2 = `
                 </div>
                     <div class="minicart-footer">
@@ -105,7 +70,8 @@
                 </div>`
 
             $('#cart-span').html(count)
-            $('.minicart-side-content').html(`${p1} ${cart.join(' ')} ${p2}`)
+            $('.minicart-side-content').html(`${p1} ${cart.join(' ')} ${p2}`);
+
         })
     }
 

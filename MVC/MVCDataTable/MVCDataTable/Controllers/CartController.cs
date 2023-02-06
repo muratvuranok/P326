@@ -1,11 +1,14 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using MVCDataTable.Models;
+using MVCDataTable.Services;
+
 
 namespace MVCDataTable.Controllers;
 
 public class CartController : Controller
 {
-    private readonly static List<Cart> _carts = new();
+    private const string CART_KEY = "_cart";
+
     List<Product> products = new()
  {
      new Product { ProductID = 1, ProductName = "Chai",SupplierID = 1,CategoryID= 1,QuantityPerUnit = "10 boxes x 20 bags",UnitPrice = 18.00M, UnitsInStock  = 39,UnitsOnOrder= 0 ,ReorderLevel= 10, Discontinued = true},
@@ -90,38 +93,41 @@ public class CartController : Controller
     [HttpPost]
     public async Task<IActionResult> Add(int id)
     {
-        // daha önce aynı üründen sepet içerisine ekleme yaptık mı yapmadıkmı?
+        var product = products.FirstOrDefault(x => x.ProductID == id);
 
-        var cart = _carts.FirstOrDefault(x => x.ProductId == id);
-
-        if (cart != null)
+        if (product == null)
         {
-            // ürün daha önce eklenmiş
-            cart.Count += 1;
+            return BadRequest();
+        }
+
+        var carts = HttpContext.Session.Get<List<Cart>>(CART_KEY) ?? new List<Cart>();
+
+        var existingCart = carts.FirstOrDefault(x => x.ProductId == id);
+
+        if (existingCart == null)
+        {
+            var cart = new Cart
+            {
+                ProductId = id,
+                Price = product.UnitPrice ?? 0,
+                ProductName = product.ProductName
+            };
+            carts.Add(cart);
         }
         else
         {
-            // Database içerisinden ürünü bulduk
-            var product = products.FirstOrDefault(x => x.ProductID == id);
-
-            // o ürünü sepet haline getirdik
-            cart = new Cart();
-            cart.ProductId = id;
-            cart.Price = product.UnitPrice ?? 0;
-            cart.ProductName = product.ProductName;
-            _carts.Add(cart);
+            existingCart.Count++;
         }
 
-        return Json(_carts);
+        HttpContext.Session.Set<List<Cart>>(CART_KEY, carts);
+
+        return Json(carts);
     }
 
     public async Task<IActionResult> GetAll()
     {
-        return Json(new { Id = 1 });
+        var carts = HttpContext.Session.Get<List<Cart>>(CART_KEY);
+        return Json(carts);
     }
-
-
-    // hepsi Json dönecek
-    // Silme Metodu ( action ) eklenecek 
-    // Var olan Chart içerisindeki datalar json olarak geriye liste halinde dönen metot ( action )
 }
+
