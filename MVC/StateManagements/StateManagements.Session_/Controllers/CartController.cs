@@ -6,9 +6,7 @@ public class CartController : Controller
     private const string CART_KEY = "_cart";
     public CartController(StateManagementsContext context)
     {
-        this._context = context;
-
-
+        this._context = context; 
         if (!_context.Products.Any())
         {
             _context.Categories.Add(new Category()

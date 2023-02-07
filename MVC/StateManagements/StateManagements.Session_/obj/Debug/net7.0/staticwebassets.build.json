@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "zTU/GiLtJWl5MPhzf1YKM1Fq6ni+Sq6Cey1qKamKr/c=",
+  "Hash": "pFGfK/KR16w1O05O8DQtL4LgpBeSCVPhQGx9jqp4SPw=",
   "Source": "StateManagements.Session_",
   "BasePath": "_content/StateManagements.Session_",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "StateManagements.Session_\\wwwroot",
       "Source": "StateManagements.Session_",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\obj\\Debug\\net7.0\\scopedcss\\bundle\\StateManagements.Session_.styles.css",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\obj\\Debug\\net7.0\\scopedcss\\bundle\\StateManagements.Session_.styles.css",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "StateManagements.Session_.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\obj\\Debug\\net7.0\\scopedcss\\bundle\\StateManagements.Session_.styles.css"
+      "OriginalItemSpec": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\obj\\Debug\\net7.0\\scopedcss\\bundle\\StateManagements.Session_.styles.css"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\StateManagements.Session_.bundle.scp.css",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\StateManagements.Session_.bundle.scp.css",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "StateManagements.Session_.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\StateManagements.Session_.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\StateManagements.Session_.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\css\\bootstrap.min.css",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\css\\comman.css",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\css\\comman.css",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/css/comman.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\comman.css"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\css\\font.css",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\css\\font.css",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/css/font.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\font.css"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\css\\magnific-popup.css",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\css\\magnific-popup.css",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/css/magnific-popup.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\magnific-popup.css"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\css\\nice-select.css",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\css\\nice-select.css",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/css/nice-select.css",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\nice-select.css"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\css\\style.css",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\css\\style.css",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/css/style.css",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\css\\swiper-bundle.min.css",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\css\\swiper-bundle.min.css",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/css/swiper-bundle.min.css",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\swiper-bundle.min.css"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\err_toster.png",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\err_toster.png",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/err_toster.png",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\err_toster.png"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\baner01.png",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\baner01.png",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/baner01.png",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\baner01.png"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\baner02.png",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\baner02.png",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/baner02.png",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\baner02.png"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\big_logo.png",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\big_logo.png",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/big_logo.png",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\big_logo.png"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\blog_next.jpg",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\blog_next.jpg",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/blog_next.jpg",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\blog_next.jpg"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\blog_pre.jpg",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\blog_pre.jpg",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/blog_pre.jpg",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\blog_pre.jpg"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\blog01.jpg",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\blog01.jpg",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/blog01.jpg",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\blog01.jpg"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\blog02.jpg",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\blog02.jpg",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/blog02.jpg",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\blog02.jpg"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\blog03.jpg",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\blog03.jpg",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/blog03.jpg",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\blog03.jpg"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\blogads.jpg",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\blogads.jpg",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/blogads.jpg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\blogads.jpg"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\bs_list1.jpg",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\bs_list1.jpg",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/bs_list1.jpg",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\bs_list1.jpg"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\bs_list2.jpg",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\bs_list2.jpg",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/bs_list2.jpg",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\bs_list2.jpg"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\bs_list3.jpg",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\bs_list3.jpg",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/bs_list3.jpg",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\bs_list3.jpg"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\cmnt01.jpg",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\cmnt01.jpg",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/cmnt01.jpg",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\cmnt01.jpg"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\cmnt02.jpg",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\cmnt02.jpg",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/cmnt02.jpg",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\cmnt02.jpg"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\cmnt03.jpg",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\cmnt03.jpg",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/cmnt03.jpg",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\cmnt03.jpg"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\e_mid_banner1.jpg",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\e_mid_banner1.jpg",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/e_mid_banner1.jpg",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\e_mid_banner1.jpg"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\e_mid_banner2.jpg",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\e_mid_banner2.jpg",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/e_mid_banner2.jpg",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\e_mid_banner2.jpg"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\e_offer_banner1.jpg",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\e_offer_banner1.jpg",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/e_offer_banner1.jpg",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\e_offer_banner1.jpg"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\e_offer_banner2.jpg",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\e_offer_banner2.jpg",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/e_offer_banner2.jpg",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\e_offer_banner2.jpg"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\e_offer_banner3.jpg",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\e_offer_banner3.jpg",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/e_offer_banner3.jpg",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\e_offer_banner3.jpg"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\favicon.png",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\favicon.png",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/favicon.png",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\instaglry01.jpg",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\instaglry01.jpg",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/instaglry01.jpg",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\instaglry01.jpg"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\instaglry02.jpg",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\instaglry02.jpg",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/instaglry02.jpg",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\instaglry02.jpg"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\instaglry03.jpg",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\instaglry03.jpg",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/instaglry03.jpg",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\instaglry03.jpg"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\instaglry04.jpg",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\instaglry04.jpg",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/instaglry04.jpg",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\instaglry04.jpg"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\instaglry05.jpg",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\instaglry05.jpg",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/instaglry05.jpg",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\instaglry05.jpg"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\instaglry06.jpg",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\instaglry06.jpg",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/instaglry06.jpg",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\instaglry06.jpg"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\instaglry07.jpg",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\instaglry07.jpg",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/instaglry07.jpg",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\instaglry07.jpg"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\instaglry08.jpg",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\instaglry08.jpg",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/instaglry08.jpg",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\instaglry08.jpg"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\instaglry09.jpg",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\instaglry09.jpg",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/instaglry09.jpg",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\instaglry09.jpg"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\logo.png",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\logo.png",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/logo.png",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\mastercard.png",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\mastercard.png",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/mastercard.png",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\mastercard.png"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\mini_blog1.jpg",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\mini_blog1.jpg",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/mini_blog1.jpg",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\mini_blog1.jpg"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\mini_blog2.jpg",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\mini_blog2.jpg",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/mini_blog2.jpg",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\mini_blog2.jpg"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\new_arrivals\\01.png",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\new_arrivals\\01.png",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/new_arrivals/01.png",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\new_arrivals\\01.png"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\new_arrivals\\02.png",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\new_arrivals\\02.png",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/new_arrivals/02.png",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\new_arrivals\\02.png"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\new_arrivals\\03.png",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\new_arrivals\\03.png",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/new_arrivals/03.png",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\new_arrivals\\03.png"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\new_arrivals\\04.png",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\new_arrivals\\04.png",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/new_arrivals/04.png",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\new_arrivals\\04.png"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\new_arrivals\\05.png",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\new_arrivals\\05.png",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/new_arrivals/05.png",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\new_arrivals\\05.png"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\new_arrivals\\06.png",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\new_arrivals\\06.png",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/new_arrivals/06.png",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\new_arrivals\\06.png"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\new_arrivals\\07.png",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\new_arrivals\\07.png",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/new_arrivals/07.png",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\new_arrivals\\07.png"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\new_arrivals\\08.png",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\new_arrivals\\08.png",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/new_arrivals/08.png",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\new_arrivals\\08.png"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\new_arrivals\\09.png",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\new_arrivals\\09.png",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/new_arrivals/09.png",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\new_arrivals\\09.png"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\new_arrivals\\10.png",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\new_arrivals\\10.png",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/new_arrivals/10.png",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\new_arrivals\\10.png"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\new_arrivals\\11.png",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\new_arrivals\\11.png",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/new_arrivals/11.png",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\new_arrivals\\11.png"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\new_arrivals\\12.png",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\new_arrivals\\12.png",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/new_arrivals/12.png",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\new_arrivals\\12.png"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\news_move1.png",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\news_move1.png",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/news_move1.png",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\news_move1.png"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\news_move2.png",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\news_move2.png",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/news_move2.png",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\news_move2.png"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\news_move3.png",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\news_move3.png",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/news_move3.png",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\news_move3.png"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\news_move4.png",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\news_move4.png",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/news_move4.png",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\news_move4.png"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\newsletter_bg.jpg",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\newsletter_bg.jpg",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/newsletter_bg.jpg",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\newsletter_bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\payment1.png",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\payment1.png",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/payment1.png",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\payment1.png"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\payment2.png",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\payment2.png",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/payment2.png",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\payment2.png"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\payment3.png",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\payment3.png",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/payment3.png",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\payment3.png"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\payment4.png",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\payment4.png",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/payment4.png",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\payment4.png"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\paypal.png",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\paypal.png",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/paypal.png",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\paypal.png"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\pro-single01.jpg",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\pro-single01.jpg",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/pro-single01.jpg",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\pro-single01.jpg"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\pro-singlethumb01.jpg",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\pro-singlethumb01.jpg",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/pro-singlethumb01.jpg",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\pro-singlethumb01.jpg"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\pro-singlethumb02.jpg",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\pro-singlethumb02.jpg",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/pro-singlethumb02.jpg",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\pro-singlethumb02.jpg"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\pro-singlethumb03.jpg",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\pro-singlethumb03.jpg",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/pro-singlethumb03.jpg",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\pro-singlethumb03.jpg"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\shopcart01.jpg",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\shopcart01.jpg",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/shopcart01.jpg",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\shopcart01.jpg"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\shopcart02.jpg",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\shopcart02.jpg",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/shopcart02.jpg",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\shopcart02.jpg"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\shopcart03.jpg",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\shopcart03.jpg",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/shopcart03.jpg",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\shopcart03.jpg"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\shopcart04.jpg",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\shopcart04.jpg",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/shopcart04.jpg",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\shopcart04.jpg"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\shopcart05.jpg",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\shopcart05.jpg",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/shopcart05.jpg",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\shopcart05.jpg"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\svg\\blank_star.svg",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\svg\\blank_star.svg",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/svg/blank_star.svg",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\svg\\blank_star.svg"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\svg\\blog_caret.svg",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\svg\\blog_caret.svg",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/svg/blog_caret.svg",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\svg\\blog_caret.svg"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\svg\\blog_play.svg",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\svg\\blog_play.svg",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/svg/blog_play.svg",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\svg\\blog_play.svg"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\svg\\calender_c.svg",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\svg\\calender_c.svg",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/svg/calender_c.svg",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\svg\\calender_c.svg"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\svg\\ccv.svg",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\svg\\ccv.svg",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/svg/ccv.svg",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\svg\\ccv.svg"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\svg\\close_search.png",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\svg\\close_search.png",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/svg/close_search.png",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\svg\\close_search.png"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\svg\\cut.svg",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\svg\\cut.svg",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/svg/cut.svg",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\svg\\cut.svg"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\svg\\delete.svg",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\svg\\delete.svg",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/svg/delete.svg",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\svg\\delete.svg"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\svg\\discount_Per.svg",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\svg\\discount_Per.svg",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/svg/discount_Per.svg",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\svg\\discount_Per.svg"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\svg\\edit.svg",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\svg\\edit.svg",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/svg/edit.svg",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\svg\\edit.svg"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\svg\\plus.svg",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\svg\\plus.svg",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/svg/plus.svg",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\svg\\plus.svg"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\svg\\profile.svg",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\svg\\profile.svg",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/svg/profile.svg",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\svg\\profile.svg"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\svg\\quote.svg",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\svg\\quote.svg",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/svg/quote.svg",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\svg\\quote.svg"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\svg\\reply.svg",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\svg\\reply.svg",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/svg/reply.svg",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\svg\\reply.svg"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\svg\\star.svg",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\svg\\star.svg",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/svg/star.svg",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\svg\\star.svg"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\ts_shap.png",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\ts_shap.png",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/ts_shap.png",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\ts_shap.png"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\visa.png",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\visa.png",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/index1/visa.png",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\visa.png"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\suc_toster.png",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\suc_toster.png",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/suc_toster.png",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\suc_toster.png"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\user_profile.jpg",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\user_profile.jpg",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/images/user_profile.jpg",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\user_profile.jpg"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\js\\custom.js",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\js\\custom.js",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/js/custom.js",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\custom.js"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\js\\isotope.pkgd.min.js",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\js\\isotope.pkgd.min.js",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/js/isotope.pkgd.min.js",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\isotope.pkgd.min.js"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\js\\jquery.magnific-popup.min.js",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\js\\jquery.magnific-popup.min.js",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/js/jquery.magnific-popup.min.js",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\jquery.magnific-popup.min.js"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\js\\jquery.min.js",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\js\\jquery.min.js",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/js/jquery.min.js",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\js\\jquery.nice-select.min.js",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\js\\jquery.nice-select.min.js",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/js/jquery.nice-select.min.js",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\jquery.nice-select.min.js"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\js\\rang_slider.js",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\js\\rang_slider.js",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/js/rang_slider.js",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\rang_slider.js"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\js\\SmoothScroll.min.js",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\js\\SmoothScroll.min.js",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/js/SmoothScroll.min.js",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\SmoothScroll.min.js"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\js\\swiper-bundle.min.js",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\js\\swiper-bundle.min.js",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "assets/js/swiper-bundle.min.js",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\swiper-bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\css\\site.css",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\favicon.ico",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\js\\site.js",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1819,146 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
-      "BasePath": "_content/StateManagements.Session_",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
-    },
-    {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "SourceId": "StateManagements.Session_",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
-      "BasePath": "_content/StateManagements.Session_",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "SourceId": "StateManagements.Session_",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
-      "BasePath": "_content/StateManagements.Session_",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
-    },
-    {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "SourceId": "StateManagements.Session_",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
-      "BasePath": "_content/StateManagements.Session_",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
-      "SourceId": "StateManagements.Session_",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
-      "BasePath": "_content/StateManagements.Session_",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
-    },
-    {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
-      "SourceId": "StateManagements.Session_",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
-      "BasePath": "_content/StateManagements.Session_",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
-      "SourceId": "StateManagements.Session_",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
-      "BasePath": "_content/StateManagements.Session_",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
-    },
-    {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
-      "SourceId": "StateManagements.Session_",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
-      "BasePath": "_content/StateManagements.Session_",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
-    },
-    {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
-      "SourceId": "StateManagements.Session_",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1972,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1989,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -2006,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -2023,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -2040,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -2057,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -2074,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -2091,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -2108,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -2125,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -2142,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -2159,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -2176,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -2193,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -2210,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -2227,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -2244,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -2261,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -2278,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -2295,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -2312,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -2329,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -2346,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -2363,10 +2227,146 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "BasePath": "_content/StateManagements.Session_",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "SourceId": "StateManagements.Session_",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "BasePath": "_content/StateManagements.Session_",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "SourceId": "StateManagements.Session_",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "BasePath": "_content/StateManagements.Session_",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "SourceId": "StateManagements.Session_",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "BasePath": "_content/StateManagements.Session_",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "SourceId": "StateManagements.Session_",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "BasePath": "_content/StateManagements.Session_",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "SourceId": "StateManagements.Session_",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "BasePath": "_content/StateManagements.Session_",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "SourceId": "StateManagements.Session_",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "BasePath": "_content/StateManagements.Session_",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "SourceId": "StateManagements.Session_",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "BasePath": "_content/StateManagements.Session_",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "SourceId": "StateManagements.Session_",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2380,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2397,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2414,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2431,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2448,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2465,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2482,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2499,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2516,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2533,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2550,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2567,10 +2567,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2584,163 +2584,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
-      "BasePath": "_content/StateManagements.Session_",
-      "RelativePath": "lib/jquery/dist/jquery.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
-    },
-    {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
-      "SourceId": "StateManagements.Session_",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
-      "BasePath": "_content/StateManagements.Session_",
-      "RelativePath": "lib/jquery/dist/jquery.min.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
-    },
-    {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
-      "SourceId": "StateManagements.Session_",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
-      "BasePath": "_content/StateManagements.Session_",
-      "RelativePath": "lib/jquery/dist/jquery.min.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
-    },
-    {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "SourceId": "StateManagements.Session_",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
-      "BasePath": "_content/StateManagements.Session_",
-      "RelativePath": "lib/jquery/LICENSE.txt",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
-    },
-    {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
-      "SourceId": "StateManagements.Session_",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
-      "BasePath": "_content/StateManagements.Session_",
-      "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
-    },
-    {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
-      "SourceId": "StateManagements.Session_",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
-      "BasePath": "_content/StateManagements.Session_",
-      "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
-    },
-    {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-      "SourceId": "StateManagements.Session_",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
-      "BasePath": "_content/StateManagements.Session_",
-      "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
-    },
-    {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
-      "SourceId": "StateManagements.Session_",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
-      "BasePath": "_content/StateManagements.Session_",
-      "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
-    },
-    {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
-      "SourceId": "StateManagements.Session_",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
-      "BasePath": "_content/StateManagements.Session_",
-      "RelativePath": "lib/jquery-validation/LICENSE.md",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
-    },
-    {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
-      "SourceId": "StateManagements.Session_",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2754,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2771,10 +2618,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -2786,6 +2633,159 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "SourceId": "StateManagements.Session_",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "BasePath": "_content/StateManagements.Session_",
+      "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "SourceId": "StateManagements.Session_",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "BasePath": "_content/StateManagements.Session_",
+      "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "SourceId": "StateManagements.Session_",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "BasePath": "_content/StateManagements.Session_",
+      "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "SourceId": "StateManagements.Session_",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "BasePath": "_content/StateManagements.Session_",
+      "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "SourceId": "StateManagements.Session_",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "BasePath": "_content/StateManagements.Session_",
+      "RelativePath": "lib/jquery-validation/LICENSE.md",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "SourceId": "StateManagements.Session_",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "BasePath": "_content/StateManagements.Session_",
+      "RelativePath": "lib/jquery/dist/jquery.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "SourceId": "StateManagements.Session_",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "BasePath": "_content/StateManagements.Session_",
+      "RelativePath": "lib/jquery/dist/jquery.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "SourceId": "StateManagements.Session_",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "BasePath": "_content/StateManagements.Session_",
+      "RelativePath": "lib/jquery/dist/jquery.min.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "SourceId": "StateManagements.Session_",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
+      "BasePath": "_content/StateManagements.Session_",
+      "RelativePath": "lib/jquery/LICENSE.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     }
   ]
 }

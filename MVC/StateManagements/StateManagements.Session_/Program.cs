@@ -42,4 +42,7 @@ sln uzantisinin oldugu dizin icerisinde calıstiriniz.
 
 dotnet ef migrations add initialize --project StateManagements.Models --startup-project  StateManagements.Session_ --output-dir  Migrations
 dotnet ef database update           --project StateManagements.Models --startup-project  StateManagements.Session_
+
+
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope LocalMachine
  */

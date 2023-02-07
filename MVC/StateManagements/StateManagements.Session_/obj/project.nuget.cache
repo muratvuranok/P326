@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Nwjoj3dYo11oEpTDgiKLGmd84GmMknK/+OrmQ8s1yTNQQe14shPiWdDSI9id33vbbaTNvj6Fy+7d/sAF7kZN/Q==",
+  "dgSpecHash": "ql0CcgtsA9xSoJznH9dCKdaBkYCiI+eMTMz9B4qE6ffmibivi15jdb4z5BqkuiNhT+FhO00O+i6UnFUtjS6ipA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Session_\\StateManagements.Session_.csproj",
+  "projectFilePath": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\StateManagements.Session_.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\murat\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\murat\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

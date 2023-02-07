@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Models\\StateManagements.Models.csproj": {}
+    "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Models\\StateManagements.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Models\\StateManagements.Models.csproj": {
+    "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Models\\StateManagements.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Models\\StateManagements.Models.csproj",
+        "projectUniqueName": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Models\\StateManagements.Models.csproj",
         "projectName": "StateManagements.Models",
-        "projectPath": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Models\\StateManagements.Models.csproj",
+        "projectPath": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Models\\StateManagements.Models.csproj",
         "packagesPath": "C:\\Users\\murat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\murat\\OneDrive\\Desktop\\RNET101\\MVC\\StateManagements\\StateManagements.Models\\obj\\",
+        "outputPath": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
