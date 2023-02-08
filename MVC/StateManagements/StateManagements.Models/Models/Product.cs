@@ -1,8 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace StateManagements.Models.Models;
-
+namespace StateManagements.Models.Models; 
 public class Product
 {
     public int Id { get; set; }
