@@ -6,7 +6,7 @@ public class CartController : Controller
     private const string CART_KEY = "_cart";
     public CartController(StateManagementsContext context)
     {
-        this._context = context; 
+        this._context = context;
         if (!_context.Products.Any())
         {
             _context.Categories.Add(new Category()
@@ -76,6 +76,17 @@ public class CartController : Controller
         HttpContext.Session.Set<List<Cart>>(CART_KEY, carts);
 
         return Json(data: carts);
+    }
+
+
+    public async Task<IActionResult> GetAll()
+    {
+        var cart = new List<Cart>();
+        if (HttpContext.Session.Get<List<Cart>>(CART_KEY) != null)
+        {
+            cart = HttpContext.Session.Get<List<Cart>>(CART_KEY);
+        }
+        return Json(data: cart);
     }
 }
 

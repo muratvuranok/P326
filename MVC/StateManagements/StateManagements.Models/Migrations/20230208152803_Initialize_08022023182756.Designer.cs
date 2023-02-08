@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using StateManagements.Models.Data;
 
@@ -11,9 +12,11 @@ using StateManagements.Models.Data;
 namespace StateManagements.Models.Migrations
 {
     [DbContext(typeof(StateManagementsContext))]
-    partial class StateManagementsContextModelSnapshot : ModelSnapshot
+    [Migration("20230208152803_Initialize_08022023182756")]
+    partial class Initialize08022023182756
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

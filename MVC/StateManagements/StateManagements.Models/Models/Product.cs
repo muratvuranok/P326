@@ -13,6 +13,7 @@ public class Product
 
     public string? MainImage { get; set; }
     public string? OverlayImage { get; set; }
+    public string? CartImage { get; set; }
     public string? Kind { get; set; }
     public int? CategoryID { get; set; }
     public Category? Category { get; set; }
