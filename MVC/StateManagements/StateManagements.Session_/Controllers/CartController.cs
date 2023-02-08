@@ -1,4 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using System.Net;
+
 namespace StateManagements.Session_.Controllers;
 public class CartController : Controller
 {
@@ -66,7 +68,8 @@ public class CartController : Controller
             {
                 Id = product.Id,
                 Name = product.Name,
-                Price = product.UnitPrice
+                Price = product.UnitPrice,
+                CartImage = product.CartImage
             };
             carts.Add(cart);
         }
@@ -87,6 +90,23 @@ public class CartController : Controller
             cart = HttpContext.Session.Get<List<Cart>>(CART_KEY);
         }
         return Json(data: cart);
+    }
+
+
+    public async Task<IActionResult> Remove(int id)
+    {
+        if (HttpContext.Session.Get<List<Cart>>(CART_KEY) != null)
+        {
+            var carts = HttpContext.Session.Get<List<Cart>>(CART_KEY);
+
+            var product = carts.FirstOrDefault(x => x.Id == id);
+            carts.Remove(product);
+
+            HttpContext.Session.Set<List<Cart>>(CART_KEY, carts);
+
+            return Json(new { StatusCode = HttpStatusCode.OK });
+        }  
+        return Json(new { StatusCode = HttpStatusCode.BadRequest });
     }
 }
 

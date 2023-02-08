@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "1pE65FVvQYSYUQAzlsNJEaHFcTqcxawXablz3/bEyXw=",
+  "Hash": "+UGqGDx+dS1/z07PilArCD/rXhTiLYZUkhC6wAKx+gw=",
   "Source": "StateManagements.Session_",
   "BasePath": "_content/StateManagements.Session_",
   "Mode": "Default",
@@ -1411,12 +1411,12 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\shopcart13.jpg"
     },
     {
-      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\shopcart14y.jpg",
+      "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\shopcart14.jpg",
       "SourceId": "StateManagements.Session_",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\",
       "BasePath": "_content/StateManagements.Session_",
-      "RelativePath": "assets/images/index1/shopcart14y.jpg",
+      "RelativePath": "assets/images/index1/shopcart14.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1425,7 +1425,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\shopcart14y.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\images\\index1\\shopcart14.jpg"
     },
     {
       "Identity": "C:\\Users\\murat\\OneDrive\\Desktop\\P236\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\shopcart15.jpg",

@@ -1,12 +1,10 @@
 ﻿$(() => {
     $('.cart').on('click', (e) => {
-        let curentItem = e.currentTarget;
-
-
+        let id = $(e.currentTarget).data('id');
         $.ajax({
-            url: '/cart/add/1',
+            url: `/cart/add/${id}`,
             method: 'post',
-            success: (data) => { console.log(data) },
+            success: () => GetAll(),
             error: (err) => { console.log(err) }
         });
     });
@@ -15,14 +13,50 @@
     function GetAll() {
         $.getJSON('/cart/getall', (data) => {
 
-            console.log(data)
+            let templates = [];
+
+            $.each(data, (key, value) => {
+                let template = `<li>
+                                      <div class="sc-productwrap">
+                                          <a href="product_details.html" class="sc-product-thumb">
+                                              <img src="${value.cartImage}" alt="Product" class="img-fluid">
+                                          </a>
+                                          <div class="sc-product-details">
+                                              <a href="product_details.html" class="sc-product-ttl">${value.name}</a>
+                                              <p class="sc-product-sz">Size : Medium</p>
+                                          </div>
+                                      </div>
+                                      <div class="sc-quantity">
+                                          1X <span class="sc-price"> $${value.price}</span>
+                                      </div>
+                                      <a  href="javascript:void(0);" class="sc-produc-remove">
+                                          <img src="assets/images/index1/svg/cut.svg" alt="icon">
+                                      </a>
+                                  </li >`;
+
+                templates.push(template);
+            })
+
+            $('.sb-cartbox-list').html(templates.join('</br>'));
+
         })
     }
+
     GetAll();
 
-    $('.delete').on('click', (e) => {
-        let curentItem = e.currentTarget;
-    });
+    
+
+    //$('.sc-produc-remove').on('click', (e) => {
+
+    //    alert('safsd')
+    //    let id = $(e.currentTarget).data('id');
+    //    $.ajax({
+    //        url: `/cart/remove/${id}`,
+    //        method: 'post',
+    //        success: (data) => alert(data),
+    //        error: (err) => { console.log(err) }
+    //    });
+    //});
 
     $('.increase').on('click', (e) => {
         let curentItem = e.currentTarget;
@@ -31,90 +65,4 @@
     $('.decrease').on('click', (e) => {
         let curentItem = e.currentTarget;
     });
-})
-
-    //< li >
-    //                    <div class="sc-productwrap">
-    //                        <a href="product_details.html" class="sc-product-thumb">
-    //                            <img src="~/assets/images/index1/shopcart01.jpg" alt="Product" class="img-fluid">
-    //                        </a>
-    //                        <div class="sc-product-details">
-    //                            <a href="product_details.html" class="sc-product-ttl">Black Gray Hooded Jacket</a>
-    //                            <p class="sc-product-sz">Size : Medium</p>
-    //                        </div>
-    //                    </div>
-    //                    <div class="sc-quantity">
-    //                        1X <span class="sc-price"> $1,120</span>
-    //                    </div>
-    //                    <a href="javascript:void(0);" class="sc-produc-remove">
-    //                        <img src="~/assets/images/index1/svg/cut.svg" alt="icon">
-    //                    </a>
-    //                </li >
-    //                <li>
-    //                    <div class="sc-productwrap">
-    //                        <a href="product_details.html" class="sc-product-thumb">
-    //                            <img src="~/assets/images/index1/shopcart02.jpg" alt="Product" class="img-fluid">
-    //                        </a>
-    //                        <div class="sc-product-details">
-    //                            <a href="product_details.html" class="sc-product-ttl">Kids Yellow Padded Jacket</a>
-    //                            <p class="sc-product-sz">Size : Medium</p>
-    //                        </div>
-    //                    </div>
-    //                    <div class="sc-quantity">
-    //                        1X <span class="sc-price"> $860</span>
-    //                    </div>
-    //                    <a href="javascript:void(0);" class="sc-produc-remove">
-    //                        <img src="~/assets/images/index1/svg/cut.svg" alt="icon">
-    //                    </a>
-    //                </li>
-    //                <li>
-    //                    <div class="sc-productwrap">
-    //                        <a href="product_details.html" class="sc-product-thumb">
-    //                            <img src="~/assets/images/index1/shopcart03.jpg" alt="Product" class="img-fluid">
-    //                        </a>
-    //                        <div class="sc-product-details">
-    //                            <a href="product_details.html" class="sc-product-ttl">Dark Olive Padded Jacket</a>
-    //                            <p class="sc-product-sz">Size : Medium</p>
-    //                        </div>
-    //                    </div>
-    //                    <div class="sc-quantity">
-    //                        1X <span class="sc-price"> $1,124</span>
-    //                    </div>
-    //                    <a href="javascript:void(0);" class="sc-produc-remove">
-    //                        <img src="~/assets/images/index1/svg/cut.svg" alt="icon">
-    //                    </a>
-    //                </li>
-    //                <li>
-    //                    <div class="sc-productwrap">
-    //                        <a href="product_details.html" class="sc-product-thumb">
-    //                            <img src="~/assets/images/index1/shopcart04.jpg" alt="Product" class="img-fluid">
-    //                        </a>
-    //                        <div class="sc-product-details">
-    //                            <a href="product_details.html" class="sc-product-ttl">Black Bomber Jacket</a>
-    //                            <p class="sc-product-sz">Size : Medium</p>
-    //                        </div>
-    //                    </div>
-    //                    <div class="sc-quantity">
-    //                        1X <span class="sc-price"> $2,451</span>
-    //                    </div>
-    //                    <a href="javascript:void(0);" class="sc-produc-remove">
-    //                        <img src="~/assets/images/index1/svg/cut.svg" alt="icon">
-    //                    </a>
-    //                </li>
-    //                <li>
-    //                    <div class="sc-productwrap">
-    //                        <a href="product_details.html" class="sc-product-thumb">
-    //                            <img src="~/assets/images/index1/shopcart05.jpg" alt="Product" class="img-fluid">
-    //                        </a>
-    //                        <div class="sc-product-details">
-    //                            <a href="product_details.html" class="sc-product-ttl">Full Sleeve Balloon Jacket</a>
-    //                            <p class="sc-product-sz">Size : Medium</p>
-    //                        </div>
-    //                    </div>
-    //                    <div class="sc-quantity">
-    //                        1X <span class="sc-price"> $320</span>
-    //                    </div>
-    //                    <a href="javascript:void(0);" class="sc-produc-remove">
-    //                        <img src="~/assets/images/index1/svg/cut.svg" alt="icon">
-    //                    </a>
-    //                </li>
+}) 

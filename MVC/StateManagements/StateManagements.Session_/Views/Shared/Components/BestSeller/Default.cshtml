@@ -1,7 +1,6 @@
-﻿ 
+﻿@model IEnumerable<Product>  
 
-
-@for (int i = 0; i < 10; i++)
+@foreach (var product in Model)
 {
-    <partial name="_ProductPartial" />
-}
+    <partial name="_ProductPartial" model="product" />
+} 
